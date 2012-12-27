@@ -1,0 +1,44 @@
+The S&P 500 dataset contains data on the S&P 500 index (aka Standard and Poor's
+500) -- a free-float, capitalization weighted index of the top 500 (by
+capitalization) publicly listed stocks in the US. The dataset includes a list
+of all the stocks contained therein and their associated financials.
+
+## Data
+
+Detailed information on the S&P 500 (primarily in xls format) can be obtained
+from its [official webpage on the Standard and Poor's website][sp-home] - it's
+free but registration is required.
+
+* Index listing - see <data/constituents.csv> ([source xls on S&P
+  website][sp-listing])
+* Constituent financials - see <data/constituents-financials.csv>
+
+[sp-home]: http://www.standardandpoors.com/indices/sp-500/en/us/?indexId=spusa-500-usduf--p-us-l--
+[sp-listing]: http://www.standardandpoors.com/prot/spf/docs/indices/SPUSA-500-USDUF--P-US-L--Constituents.xls
+
+Also provided is a [S&P 500 Google Docs spreadsheet][gdocs] incorporating
+all of the CSVs. This is licensed under the same terms as all the other data.
+
+[gdocs]: https://docs.google.com/spreadsheet/ccc?key=0Aon3JiuouxLUdDU5S2NrbVJHRWVBRWxvU1dlOUQ2WUE#gid=0
+
+## General Financial Notes
+
+Publicly listed US companies are obliged various reports on a regular basis
+with the SEC. Of these 2 types are of especial interest to investors and others
+interested in their finances and business. These are:
+
+* 10-K = Annual Report
+* 10-Q = Quarterly report
+
+## License
+
+All data is licensed under the [Open Data Commons Public Domain Dedication and
+License][pddl]. All code is licensed under the MIT/BSD license.
+
+Note that while no credit is formally required a link back or credit to [Rufus
+Pollock][rp] and the [Open Knowledge Foundation][okfn] is much appreciated.
+
+[pddl]: http://opendatacommons.org/licenses/pddl/1.0/
+[rp]: http://rgrp.okfnlabs.org/
+[okfn]: http://okfn.org/
+
