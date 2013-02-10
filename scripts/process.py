@@ -3,40 +3,47 @@
 import urllib
 import csv
 
-
-sp500 = 'https://docs.google.com/spreadsheet/pub?key=0Aon3JiuouxLUdDU5S2NrbVJHRWVBRWxvU1dlOUQ2WUE&single=true&gid=0&output=csv'
-local = 'data/s-and-p-500-basics.csv'
+sp500 = 'data/constituents.csv'
 
 items = [
-    ['s', 'symbol'],
-    ['n', 'name'],
-    ['l1', 'price'], # strictly this is ask price
-    ['y', 'dividend yield'],
-    ['d', 'dividend/share'],
-    ['e', 'earnings/share'],
-    ['b4', 'book value'],
+    ['l1', 'Price'], # strictly this is ask price
+    ['y', 'Dividend Yield'],
+    ['r', 'Price/Earnings'],
+    ['e', 'Earnings/Share'],
+    ['b4', 'Book Value'],
     ['j', '52 week low'],
     ['k', '52 week high'],
-    ['j1', 'market capitalization'],
-    ['j4', 'ebitda'],
-    ['p5', 'price/sales'],
-    ['p6', 'price/book'],
-    ['r', 'price/earnings'],
+    ['j1', 'Market Cap'],
+    ['j4', 'EBITDA'],
+    ['p5', 'Price/Sales'],
+    ['p6', 'Price/Book']
 ]
 params = ''.join([ x[0] for x in items ])
 
-reader = csv.DictReader(open(local))
-symbols = []
-newcsv = ','.join([ x[1] for x in items ]) + '\n'
-for row in reader:
-    symbols.append(row['Ticker Symbol'])
-    if len(symbols) == 20:
-        query = 'http://finance.yahoo.com/d/quotes.csv?s=' + '+'.join(symbols) + '&f=' + params
-        fo = urllib.urlopen(query)
-        newcsv += fo.read()
-        symbols = []
+url = 'http://finance.yahoo.com/d/quotes.csv?'
+edgar = 'http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK='
 
-fo = open('data/s-and-p-500-financials.csv', 'w')
-fo.write(newcsv)
+reader = csv.reader(open(sp500))
+outrows = [ row for row in reader ]
+symbols = [ row[0] for row in outrows[1:] ]
+
+outrows[0] += [ item[1] for item in items ] + ['SEC Filings']
+
+for idx in range(0,500,20):
+    query = url + 's=' + '+'.join(symbols[idx:idx+20]) + '&f=' + params
+    fo = urllib.urlopen(query)
+    rows = [ line.split(',') for line in fo.read().split('\r\n')[:-1] ]
+    for count, row in enumerate(rows):
+        realidx = idx + count + 1
+        # add the edgar link
+        row.append(edgar + symbols[realidx-1])
+        # change n/a to empty cell
+        row = [ x.replace('N/A', '') for x in row ]
+        outrows[realidx] = outrows[realidx] + row
+    print('Processed: %s rows' % (idx + 20))
+
+fo = open('data/constituents-financials.csv', 'w')
+writer = csv.writer(fo)
+writer.writerows(outrows)
 fo.close()
 
