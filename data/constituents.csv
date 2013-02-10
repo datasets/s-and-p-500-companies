@@ -132,7 +132,7 @@ CSX,CSX Corp.,Industrials
 CMI,Cummins Inc.,Industrials
 CVS,CVS Caremark Corp.,Consumer Staples
 DHI,D. R. Horton,Consumer Discretionary
-DHR,Danaher Corp.,Industrials,Washington D.C
+DHR,Danaher Corp.,Industrials
 DRI,Darden Restaurants,Consumer Discretionary
 DVA,DaVita Inc.,Health Care
 DF,Dean Foods,Consumer Staples
@@ -351,7 +351,7 @@ PAYX,Paychex Inc.,Information Technology
 BTU,Peabody Energy,Energy
 JCP,Penney (J.C.),Consumer Discretionary
 PBCT,People's United Bank,Financials
-POM,Pepco Holdings Inc.,Utilities,Washington D.C
+POM,Pepco Holdings Inc.,Utilities
 PEP,PepsiCo Inc.,Consumer Staples
 PKI,PerkinElmer,Health Care
 PRGO,Perrigo,Health Care
@@ -473,7 +473,7 @@ VMC,Vulcan Materials,Materials
 WMT,Wal-Mart Stores,Consumer Staples
 WAG,Walgreen Co.,Consumer Staples
 DIS,Walt Disney Co.,Consumer Discretionary
-WPO,Washington Post Co B,Consumer Discretionary,Washington D.C
+WPO,Washington Post Co B,Consumer Discretionary
 WM,Waste Management Inc.,Industrials
 WAT,Waters Corporation,Health Care
 WPI,Watson Pharmaceuticals,Health Care
