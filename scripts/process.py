@@ -29,21 +29,36 @@ symbols = [ row[0] for row in outrows[1:] ]
 
 outrows[0] += [ item[1] for item in items ] + ['SEC Filings']
 
-for idx in range(0,500,20):
-    query = url + 's=' + '+'.join(symbols[idx:idx+20]) + '&f=' + params
-    fo = urllib.urlopen(query)
-    rows = [ line.split(',') for line in fo.read().split('\r\n')[:-1] ]
-    for count, row in enumerate(rows):
-        realidx = idx + count + 1
-        # add the edgar link
-        row.append(edgar + symbols[realidx-1])
-        # change n/a to empty cell
-        row = [ x.replace('N/A', '') for x in row ]
-        outrows[realidx] = outrows[realidx] + row
-    print('Processed: %s rows' % (idx + 20))
+def process():
+    for idx in range(0,500,20):
+        query = url + 's=' + '+'.join(symbols[idx:idx+20]) + '&f=' + params
+        fo = urllib.urlopen(query)
+        rows = [ line.split(',') for line in fo.read().split('\r\n')[:-1] ]
+        for count, row in enumerate(rows):
+            realidx = idx + count + 1
+            # change n/a to empty cell
+            row = [ x.replace('N/A', '') for x in row ]
+            # market cap and ebitda have 'B' or 'M' in them sometimes
+            row[7] = _correctToBillions(row[7])
+            row[8] = _correctToBillions(row[8])
+            # add the edgar link
+            row.append(edgar + symbols[realidx-1])
+            outrows[realidx] = outrows[realidx] + row
+        print('Processed: %s rows' % (idx + 20))
 
-fo = open('data/constituents-financials.csv', 'w')
-writer = csv.writer(fo)
-writer.writerows(outrows)
-fo.close()
+    fo = open('data/constituents-financials.csv', 'w')
+    writer = csv.writer(fo)
+    writer.writerows(outrows)
+    fo.close()
+
+def _correctToBillions(item):
+   if item.endswith('M'):
+       return float(item[:-1]) / 1000
+   elif item.endswith('B'):
+       return item[:-1]
+   else:
+       return item
+
+if __name__ == '__main__':
+    process()
 

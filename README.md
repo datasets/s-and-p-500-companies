@@ -13,8 +13,14 @@ free but registration is required.
   website][sp-listing])
 * Constituent financials - see <data/constituents-financials.csv>
 
+Notes:
+
+* Market Capitalization and EBIDTA are in Billions
+
 [sp-home]: http://www.standardandpoors.com/indices/sp-500/en/us/?indexId=spusa-500-usduf--p-us-l--
 [sp-listing]: http://www.standardandpoors.com/prot/spf/docs/indices/SPUSA-500-USDUF--P-US-L--Constituents.xls
+
+### Additional materials
 
 Also provided is a [S&P 500 Google Docs spreadsheet][gdocs] incorporating
 all of the CSVs. This is licensed under the same terms as all the other data.
