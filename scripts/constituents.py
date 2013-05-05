@@ -17,9 +17,9 @@ writer.writerow(header)
 
 for row in csv.reader(open('cache/constituents.csv')):
     # BRK/B => BRK.B
-    symbol = row[0].replace('/', '.')
+    symbol = row[0].replace('/', '-')
     if symbol in existing:
         writer.writerow(existing[symbol])
     else:
-        writer.writerow(row)
+        writer.writerow(row + [''])
 
