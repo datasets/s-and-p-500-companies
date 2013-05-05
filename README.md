@@ -10,8 +10,9 @@ from its [official webpage on the Standard and Poor's website][sp-home] - it's
 free but registration is required.
 
 * Index listing - see <data/constituents.csv> ([source xls on S&P
-  website][sp-listing])
-* Constituent financials - see <data/constituents-financials.csv>
+  website][sp-listing] - but note you have to register and login to access)
+* Constituent financials - see <data/constituents-financials.csv> (source via Yahoo Finance)
+* Historical performance ([source xls on S&P website][sp-historical])
 
 Notes:
 
@@ -19,6 +20,7 @@ Notes:
 
 [sp-home]: http://www.standardandpoors.com/indices/sp-500/en/us/?indexId=spusa-500-usduf--p-us-l--
 [sp-listing]: http://www.standardandpoors.com/prot/spf/docs/indices/SPUSA-500-USDUF--P-US-L--Constituents.xls
+[sp-historical]: http://www.standardandpoors.com/prot/spf/docs/indices/SPUSA-500-USDUF--P-US-L--HistoricalData.xls
 
 ### Additional materials
 
@@ -30,6 +32,20 @@ all of the CSVs. This is licensed under the same terms as all the other data.
 
 [gdocs]: https://docs.google.com/spreadsheet/ccc?key=0Aon3JiuouxLUdDU5S2NrbVJHRWVBRWxvU1dlOUQ2WUE#gid=0
 [shiller]: https://github.com/datasets/standard-and-poors-500-shiller
+
+### Preparation
+
+#### constituents.csv
+
+Source constituents file from S&P and place in cache/ (would like to automate but login required). Then run script:
+
+    python scripts/constituents.py
+
+####  constituents-financials.csv
+
+Run python script:
+
+    python scripts/process.py
 
 ## General Financial Notes
 
