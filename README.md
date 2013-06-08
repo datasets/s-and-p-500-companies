@@ -37,9 +37,10 @@ all of the CSVs. This is licensed under the same terms as all the other data.
 
 #### constituents.csv
 
-Source constituents file from S&P and place in cache/ (would like to automate but login required). Then run script:
+1. Source constituents file from S&P and place in cache/ (would like to automate but login required)
+2. Then run script:
 
-    python scripts/constituents.py
+      python scripts/constituents.py
 
 ####  constituents-financials.csv
 
