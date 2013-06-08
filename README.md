@@ -1,5 +1,4 @@
-The S&P 500 dataset contains data on the S&P 500 index (aka Standard and Poor's
-500) -- a free-float, capitalization-weighted index of the top 500 publicly
+List of companies in the S&P 500 (Standard and Poor's 500). The S&P 500 is a free-float, capitalization-weighted index of the top 500 publicly
 listed stocks in the US (top 500 by market cap). The dataset includes a list of
 all the stocks contained therein and their associated financials.
 
@@ -28,10 +27,10 @@ Also provided is a [S&P 500 Google Docs spreadsheet][gdocs] incorporating
 all of the CSVs. This is licensed under the same terms as all the other data.
 
 *Note*: for aggregate information on the S&P (dividends, earnings etc) see
-[Standard and Poors 500 Shiller Dataset][shiller]
+[Standard and Poor's 500 Dataset][shiller]
 
 [gdocs]: https://docs.google.com/spreadsheet/ccc?key=0Aon3JiuouxLUdDU5S2NrbVJHRWVBRWxvU1dlOUQ2WUE#gid=0
-[shiller]: https://github.com/datasets/standard-and-poors-500-shiller
+[shiller]: http://data.okfn.org/data/s-and-p-500
 
 ### Preparation
 
