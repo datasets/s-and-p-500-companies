@@ -122,7 +122,6 @@ ED,Consolidated Edison,Utilities
 STZ,Constellation Brands,Consumer Staples
 GLW,Corning Inc.,Industrials
 COST,Costco Co.,Consumer Staples
-CVH,Coventry Health Care Inc.,Health Care
 COV,Covidien plc,Health Care
 CCI,Crown Castle International Corp.,Telecommunications Services
 CSX,CSX Corp.,Industrials
@@ -131,7 +130,6 @@ CVS,CVS Caremark Corp.,Consumer Staples
 DHR,Danaher Corp.,Industrials
 DRI,Darden Restaurants,Consumer Discretionary
 DVA,DaVita Inc.,Health Care
-DF,Dean Foods,Consumer Staples
 DE,Deere & Co.,Industrials
 DELL,Dell Inc.,Information Technology
 DLPH,Delphi Automotive PLC,Consumer Discretionary
@@ -202,6 +200,7 @@ GRMN,Garmin Ltd,Consumer Discretionary
 GD,General Dynamics,Industrials
 GE,General Electric,Industrials
 GIS,General Mills,Consumer Staples
+GM,General Motors Company,Consumer Discretionary
 GPC,Genuine Parts,Consumer Discretionary
 GNW,Genworth Financial Inc.,Financials
 GILD,Gilead Sciences,Health Care
@@ -217,7 +216,6 @@ HIG,Hartford Financial Svc.Gp.,Financials
 HAS,Hasbro Inc.,Consumer Discretionary
 HCP,HCP Inc.,Financials
 HCN,Health Care REIT,Financials
-HNZ,Heinz (H.J.),Consumer Staples
 HP,Helmerich & Payne,Energy
 HSY,The Hershey Company,Consumer Staples
 HES,Hess Corporation,Energy
@@ -253,6 +251,7 @@ JNJ,Johnson & Johnson,Health Care
 JOY,Joy Global Inc.,Industrials
 JPM,JPMorgan Chase & Co.,Financials
 JNPR,Juniper Networks,Information Technology
+KSU,Kansas City Southern Inc,Industrials
 K,Kellogg Co.,Consumer Staples
 KEY,KeyCorp,Financials
 KMB,Kimberly-Clark,Consumer Staples
@@ -280,6 +279,7 @@ LO,Lorillard Inc.,Consumer Staples
 LOW,Lowe's Cos.,Consumer Discretionary
 LSI,LSI Corporation,Information Technology
 LYB,LyondellBasell Industries N.V.
+MAC,Macerich Co,Financials
 M,Macy's Inc.,Consumer Discretionary
 MRO,Marathon Oil Corp.,Energy
 MPC,Marathon Petroleum,Energy
@@ -290,7 +290,7 @@ MA,Mastercard Inc.,Information Technology
 MAT,Mattel Inc.,Consumer Discretionary
 MKC,McCormick & Co.,Consumer Staples
 MCD,McDonald's Corp.,Consumer Discretionary
-MHP,McGraw-Hill,Consumer Discretionary
+MHFI,McGraw Hill Financial Inc,Financials
 MCK,McKesson Corp.,Health Care
 MJN,Mead Johnson,Consumer Staples
 MWV,MeadWestvaco Corporation,Materials
