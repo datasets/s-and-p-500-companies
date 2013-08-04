@@ -1,0 +1,125 @@
+{
+  "name": "s-and-p-500-companies",
+  "title": "Companies in S&P 500 with Financial Information",
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "name": "Public Domain Dedication and License",
+      "version": "1.0",
+      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "constituents",
+      "path": "data/constituents.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "id": "Symbol",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Name",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Sector",
+            "description": "",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "constituents-financials",
+      "url": "data/constituents-financials.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "id": "Symbol",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Name",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Sector",
+            "description": "",
+            "type": "string"
+          },
+          {
+            "id": "Price",
+            "description": "",
+            "type": "number"
+          },
+          {
+            "id": "Dividend Yield",
+            "description": "",
+            "type": "number"
+          },
+          {
+            "id": "Price/Earnings",
+            "description": "",
+            "type": "number"
+          },
+          {
+            "id": "Earnings/Share",
+            "description": "",
+            "type": "number"
+          },
+          {
+            "id": "Book Value",
+            "description": "",
+            "type": "number"
+          },
+          {
+            "id": "52 week low",
+            "description": "",
+            "type": "number"
+          },
+          {
+            "id": "52 week high",
+            "description": "",
+            "type": "number"
+          },
+          {
+            "id": "Market Cap",
+            "description": "",
+            "type": "number"
+          },
+          {
+            "id": "EBITDA",
+            "description": "",
+            "type": "number"
+          },
+          {
+            "id": "Price/Sales",
+            "description": "",
+            "type": "number"
+          },
+          {
+            "id": "Price/Book",
+            "description": "",
+            "type": "number"
+          },
+          {
+            "id": "SEC Filings",
+            "description": "",
+            "format": "url",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
