@@ -8,8 +8,9 @@ Detailed information on the S&P 500 (primarily in xls format) can be obtained
 from its [official webpage on the Standard and Poor's website][sp-home] - it's
 free but registration is required.
 
-* Index listing - see <data/constituents.csv> ([source xls on S&P
-  website][sp-listing] - but note you have to register and login to access)
+* Index listing - see <data/constituents.csv> extracted from [source xls on S&P
+  website][sp-listing] (<del>but note you have to register and login to
+  access</del> - no longer true as of August 2013)
 * Constituent financials - see <data/constituents-financials.csv> (source via Yahoo Finance)
 * Historical performance ([source xls on S&P website][sp-historical])
 
@@ -18,7 +19,7 @@ Notes:
 * Market Capitalization and EBIDTA are in Billions
 
 [sp-home]: http://www.standardandpoors.com/indices/sp-500/en/us/?indexId=spusa-500-usduf--p-us-l--
-[sp-listing]: http://www.standardandpoors.com/prot/spf/docs/indices/SPUSA-500-USDUF--P-US-L--Constituents.xls
+[sp-listing]: http://us.spindices.com/idsexport/file.xls?hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&selectedModule=Constituents&selectedSubModule=ConstituentsFullList&indexId=340
 [sp-historical]: http://www.standardandpoors.com/prot/spf/docs/indices/SPUSA-500-USDUF--P-US-L--HistoricalData.xls
 
 ### Additional materials
@@ -34,10 +35,16 @@ all of the CSVs. This is licensed under the same terms as all the other data.
 
 ### Preparation
 
+You need python plus [dataconverters][] library tool installed to run the
+scripts. You also probably need to be on Linux/Unix or Mac for the shell
+scripts to work.
+
+[dataconverters]: http://okfnlabs.org/dataconverters/
+
 #### constituents.csv
 
-1. Source constituents file from S&P and place in cache/ (would like to automate but login required)
-2. Then run script:
+Run python script (this in turn runs the shell script
+`scripts/constituents.sh`):
 
       python scripts/constituents.py
 

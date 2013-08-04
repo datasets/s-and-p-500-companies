@@ -16,8 +16,9 @@ writer = csv.writer(open(path, 'w'), lineterminator='\n')
 writer.writerow(header)
 
 for row in csv.reader(open('cache/constituents.csv')):
-    # BRK/B => BRK.B
+    # BRK/B or BRK.B => BRK-B (this is what yahoo needs)
     symbol = row[0].replace('/', '-')
+    symbol = row[0].replace('.', '-')
     if symbol in existing:
         writer.writerow(existing[symbol])
     else:
