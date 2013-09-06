@@ -37,7 +37,7 @@
     },
     {
       "name": "constituents-financials",
-      "url": "data/constituents-financials.csv",
+      "path": "data/constituents-financials.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
