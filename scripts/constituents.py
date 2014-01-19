@@ -10,7 +10,7 @@ xlspath = 'cache/constituents.xls'
 path = 'data/constituents.csv'
 
 def execute():
-    # urllib.urlretrieve(source, xlspath)
+    urllib.urlretrieve(source, xlspath)
 
     existingr = csv.reader(open(path))
     header = existingr.next()

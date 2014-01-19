@@ -2,7 +2,6 @@ Symbol,Name,Sector
 MMM,3M Co.,Industrials
 ABT,Abbott Laboratories,Health Care
 ABBV,AbbVie Inc.,Health Care
-ANF,Abercrombie & Fitch Company A,Consumer Discretionary
 ACN,Accenture,Information Technology
 ACE,ACE Limited,Financials
 ACT,Actavis Inc,Health Care
@@ -18,7 +17,9 @@ AKAM,Akamai Technologies Inc,Information Technology
 AA,Alcoa Inc,Materials
 ALXN,Alexion Pharmaceuticals,Health Care
 ATI,Allegheny Technologies Inc,Materials
+ALLE,Allegion plc,Industrials
 AGN,Allergan Inc,Health Care
+ADS,Alliance Data Systems Corp,Information Technology
 ALL,Allstate Corp,Financials
 ALTR,Altera Corp,Information Technology
 MO,Altria Group Inc,Consumer Staples
@@ -129,7 +130,6 @@ DHR,Danaher Corp.,Industrials
 DRI,Darden Restaurants,Consumer Discretionary
 DVA,DaVita Inc.,Health Care
 DE,Deere & Co.,Industrials
-DELL,Dell Inc.,Information Technology
 DLPH,Delphi Automotive PLC,Consumer Discretionary
 DAL,Delta Air Lines,Industrials
 DNR,Denbury Resources Inc.,Energy
@@ -172,6 +172,7 @@ EXPD,Expeditors Int'l,Industrials
 ESRX,Express Scripts,Health Care
 XOM,Exxon Mobil Corp.,Energy
 FFIV,F5 Networks,Information Technology
+FB,Facebook Inc,Information Technology
 FDO,Family Dollar Stores,Consumer Discretionary
 FAST,Fastenal Co,Industrials
 FDX,FedEx Corporation,Industrials
@@ -197,6 +198,7 @@ GPS,Gap (The),Consumer Discretionary
 GRMN,Garmin Ltd,Consumer Discretionary
 GD,General Dynamics,Industrials
 GE,General Electric,Industrials
+GGP,General Growth Properties Inc,Financials
 GIS,General Mills,Consumer Staples
 GM,General Motors Company,Consumer Discretionary
 GPC,Genuine Parts,Consumer Discretionary
@@ -205,6 +207,7 @@ GILD,Gilead Sciences,Health Care
 GS,Goldman Sachs Group,Financials
 GT,Goodyear Tire & Rubber,Consumer Discretionary
 GOOG,Google Inc.,Information Technology
+GHC,Graham Holdings Co,Consumer Discretionary
 GWW,Grainger (W.W.) Inc.,Industrials
 HAL,Halliburton Co.,Energy
 HOG,Harley-Davidson,Consumer Discretionary
@@ -243,7 +246,6 @@ IVZ,Invesco Ltd.,Financials
 IRM,Iron Mountain Incorporated,Industrials
 JBL,Jabil Circuit,Information Technology
 JEC,Jacobs Engineering Group,Industrials
-JDSU,JDS Uniphase Corp.,Information Technology
 JNJ,Johnson & Johnson,Health Care
 JCI,Johnson Controls,Consumer Discretionary
 JOY,Joy Global Inc.,Industrials
@@ -259,7 +261,7 @@ KLAC,KLA-Tencor Corp.,Information Technology
 KSS,Kohl's Corp.,Consumer Discretionary
 KRFT,Kraft Foods Group Inc.,Consumer Staples
 KR,Kroger Co.,Consumer Staples
-LTD,Limited Brands Inc.,Consumer Discretionary
+LB,L Brands Inc,Consumer Discretionary
 LLL,L-3 Communications Holdings,Industrials
 LH,Laboratory Corp. of America Holding,Health Care
 LRCX,Lam Research,Information Technology
@@ -296,10 +298,11 @@ MWV,MeadWestvaco Corporation,Materials
 MDT,Medtronic Inc.,Health Care
 MRK,Merck & Co.,Health Care
 MET,MetLife Inc.,Financials
+KORS,Michael Kors Holdings Ltd,Consumer Discretionary
 MCHP,Microchip Technology,Information Technology
 MU,Micron Technology,Information Technology
 MSFT,Microsoft Corp.,Information Technology
-MOLX,Molex Inc.,Information Technology
+MHK,Mohawk Industries Inc,Consumer Discretionary
 TAP,Molson Coors Brewing Company,Consumer Staples
 MDLZ,Mondelez International Inc,Consumer Staples
 MON,Monsanto Co.,Materials
@@ -333,7 +336,6 @@ NOC,Northrop Grumman Corp.,Industrials
 NRG,NRG Energy,Utilities
 NUE,Nucor Corp.,Materials
 NVDA,Nvidia Corporation,Information Technology
-NYX,NYSE Euronext,Financials
 ORLY,O'Reilly Automotive,Consumer Discretionary
 OXY,Occidental Petroleum,Energy
 OMC,Omnicom Group,Consumer Discretionary
@@ -346,7 +348,6 @@ PH,Parker-Hannifin,Industrials
 PDCO,Patterson Companies,Health Care
 PAYX,Paychex Inc.,Information Technology
 BTU,Peabody Energy,Energy
-JCP,Penney (J.C.),Consumer Discretionary
 PNR,Pentair Ltd.,Industrials
 PBCT,People's United Bank,Financials
 POM,Pepco Holdings Inc.,Utilities
@@ -433,7 +434,6 @@ TEL,TE Connectivity Ltd.,Information Technology
 TE,TECO Energy,Utilities
 THC,Tenet Healthcare Corp.,Health Care
 TDC,Teradata Corp.,Information Technology
-TER,Teradyne Inc.,Information Technology
 TSO,Tesoro Petroleum Co.,Energy
 TXN,Texas Instruments,Information Technology
 TXT,Textron Inc.,Industrials
@@ -447,6 +447,7 @@ TWX,Time Warner Inc.,Consumer Discretionary
 TJX,TJX Companies Inc.,Consumer Discretionary
 TMK,Torchmark Corp.,Financials
 TSS,Total System Services,Information Technology
+RIG,Transocean Ltd,Energy
 TRV,The Travelers Companies Inc.,Financials
 TRIP,TripAdvisor,Consumer Discretionary
 FOXA,"Twenty-First Century Fox, Inc",Consumer Discretionary
@@ -474,7 +475,6 @@ VMC,Vulcan Materials,Materials
 WMT,Wal-Mart Stores,Consumer Staples
 WAG,Walgreen Co.,Consumer Staples
 DIS,Walt Disney Co.,Consumer Discretionary
-WPO,Washington Post Co B,Consumer Discretionary
 WM,Waste Management Inc.,Industrials
 WAT,Waters Corporation,Health Care
 WLP,WellPoint Inc.,Health Care
