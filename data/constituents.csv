@@ -253,6 +253,7 @@ JPM,JPMorgan Chase & Co.,Financials
 JNPR,Juniper Networks,Information Technology
 KSU,Kansas City Southern Inc,Industrials
 K,Kellogg Co.,Consumer Staples
+GMCR,Keurig Green Mountain Inc,Consumer Staples 
 KEY,KeyCorp,Financials
 KMB,Kimberly-Clark,Consumer Staples
 KIM,Kimco Realty,Financials
@@ -269,7 +270,6 @@ LM,Legg Mason,Financials
 LEG,Leggett & Platt,Consumer Discretionary
 LEN,Lennar Corp.,Consumer Discretionary
 LUK,Leucadia National Corp.,Financials
-LIFE,Life Technologies,Health Care
 LLY,Lilly (Eli) & Co.,Health Care
 LNC,Lincoln National,Financials
 LLTC,Linear Technology Corp.,Information Technology
@@ -447,6 +447,7 @@ TWX,Time Warner Inc.,Consumer Discretionary
 TJX,TJX Companies Inc.,Consumer Discretionary
 TMK,Torchmark Corp.,Financials
 TSS,Total System Services,Information Technology
+TSCO,Tractor Supply Co,Consumer Discretionary 
 RIG,Transocean Ltd,Energy
 TRV,The Travelers Companies Inc.,Financials
 TRIP,TripAdvisor,Consumer Discretionary
@@ -486,7 +487,6 @@ WHR,Whirlpool Corp.,Consumer Discretionary
 WFM,Whole Foods Market,Consumer Staples
 WIN,Windstream Corporation,Telecommunications Services
 WEC,Wisconsin Energy Corporation,Utilities
-WPX,"WPX Energy, Inc.",Energy
 WYN,Wyndham Worldwide,Consumer Discretionary
 WYNN,Wynn Resorts Ltd,Consumer Discretionary
 XEL,Xcel Energy Inc,Utilities
