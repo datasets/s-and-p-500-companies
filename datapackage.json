@@ -1,14 +1,7 @@
 {
   "name": "s-and-p-500-companies",
   "title": "S&P 500 Companies with Financial Information",
-  "licenses": [
-    {
-      "id": "odc-pddl",
-      "name": "Public Domain Dedication and License",
-      "version": "1.0",
-      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
-    }
-  ],
+  "license": "PDDL-1.0",
   "resources": [
     {
       "name": "constituents",
@@ -18,17 +11,17 @@
       "schema": {
         "fields": [
           {
-            "id": "Symbol",
+            "name": "Symbol",
             "description": "",
             "type": "string"
           },
           {
-            "id": "Name",
+            "name": "Name",
             "description": "",
             "type": "string"
           },
           {
-            "id": "Sector",
+            "name": "Sector",
             "description": "",
             "type": "string"
           }
@@ -43,77 +36,77 @@
       "schema": {
         "fields": [
           {
-            "id": "Symbol",
+            "name": "Symbol",
             "description": "",
             "type": "string"
           },
           {
-            "id": "Name",
+            "name": "Name",
             "description": "",
             "type": "string"
           },
           {
-            "id": "Sector",
+            "name": "Sector",
             "description": "",
             "type": "string"
           },
           {
-            "id": "Price",
+            "name": "Price",
             "description": "",
             "type": "number"
           },
           {
-            "id": "Dividend Yield",
+            "name": "Dividend Yield",
             "description": "",
             "type": "number"
           },
           {
-            "id": "Price/Earnings",
+            "name": "Price/Earnings",
             "description": "",
             "type": "number"
           },
           {
-            "id": "Earnings/Share",
+            "name": "Earnings/Share",
             "description": "",
             "type": "number"
           },
           {
-            "id": "Book Value",
+            "name": "Book Value",
             "description": "",
             "type": "number"
           },
           {
-            "id": "52 week low",
+            "name": "52 week low",
             "description": "",
             "type": "number"
           },
           {
-            "id": "52 week high",
+            "name": "52 week high",
             "description": "",
             "type": "number"
           },
           {
-            "id": "Market Cap",
+            "name": "Market Cap",
             "description": "",
             "type": "number"
           },
           {
-            "id": "EBITDA",
+            "name": "EBITDA",
             "description": "",
             "type": "number"
           },
           {
-            "id": "Price/Sales",
+            "name": "Price/Sales",
             "description": "",
             "type": "number"
           },
           {
-            "id": "Price/Book",
+            "name": "Price/Book",
             "description": "",
             "type": "number"
           },
           {
-            "id": "SEC Filings",
+            "name": "SEC Filings",
             "description": "",
             "format": "url",
             "type": "string"
