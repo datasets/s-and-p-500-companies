@@ -48,6 +48,7 @@ ADSK,Autodesk Inc,Information Technology
 ADP,Automatic Data Processing,Information Technology
 AN,AutoNation Inc,Consumer Discretionary
 AZO,AutoZone Inc,Consumer Discretionary
+AVGO,Avago Technologies Ltd,Information Technology
 AVB,"AvalonBay Communities, Inc.",Financials
 AVY,Avery Dennison Corp,Industrials
 AVP,Avon Products,Consumer Staples
@@ -57,7 +58,6 @@ BAC,Bank of America Corp,Financials
 BCR,Bard (C.R.) Inc.,Health Care
 BAX,Baxter International Inc.,Health Care
 BBT,BB&T Corporation,Financials
-BEAM,Beam Inc.,Consumer Discretionary
 BDX,Becton Dickinson,Health Care
 BBBY,Bed Bath & Beyond,Consumer Discretionary
 BMS,Bemis Company,Materials
@@ -97,12 +97,12 @@ CVX,Chevron Corp.,Energy
 CMG,Chipotle Mexican Grill,Consumer Discretionary
 CB,Chubb Corp.,Financials
 CI,CIGNA Corp.,Health Care
+XEC,Cimarex Energy Co,Energy
 CINF,Cincinnati Financial,Financials
 CTAS,Cintas Corporation,Industrials
 CSCO,Cisco Systems,Information Technology
 C,Citigroup Inc.,Financials
 CTXS,Citrix Systems,Information Technology
-CLF,Cliffs Natural Resources,Materials
 CLX,Clorox Co.,Consumer Staples
 CME,CME Group Inc.,Financials
 CMS,CMS Energy,Utilities
@@ -165,6 +165,7 @@ EOG,EOG Resources,Energy
 EQT,EQT Corporation,Utilities
 EFX,Equifax Inc.,Financials
 EQR,Equity Residential,Financials
+ESS,Essex Property Trust,Financials
 EL,Estee Lauder Cos.,Consumer Staples
 EXC,Exelon Corp.,Utilities
 EXPE,Expedia Inc.,Consumer Discretionary
@@ -206,6 +207,7 @@ GNW,Genworth Financial Inc.,Financials
 GILD,Gilead Sciences,Health Care
 GS,Goldman Sachs Group,Financials
 GT,Goodyear Tire & Rubber,Consumer Discretionary
+GOOGL,Google Inc A,Information Technology
 GOOG,Google Inc.,Information Technology
 GHC,Graham Holdings Co,Consumer Discretionary
 GWW,Grainger (W.W.) Inc.,Industrials
@@ -238,7 +240,6 @@ ICE,IntercontinentalExchange Inc.,Financials
 IPG,Interpublic Group,Consumer Discretionary
 IBM,International Bus. Machines,Information Technology
 IFF,International Flav/Frag,Materials
-IGT,International Game Technology,Consumer Discretionary
 IP,International Paper,Materials
 INTU,Intuit Inc.,Information Technology
 ISRG,Intuitive Surgical Inc.,Health Care
@@ -277,7 +278,6 @@ LMT,Lockheed Martin Corp.,Industrials
 L,Loews Corp.,Financials
 LO,Lorillard Inc.,Consumer Staples
 LOW,Lowe's Cos.,Consumer Discretionary
-LSI,LSI Corporation,Information Technology
 LYB,LyondellBasell Industries N.V.,Materials
 MTB,M&T Bank Corp.,Financials
 MAC,Macerich Co,Financials
@@ -316,6 +316,7 @@ MYL,Mylan Inc.,Health Care
 NBR,Nabors Industries Ltd.,Energy
 NDAQ,NASDAQ OMX Group,Financials
 NOV,National Oilwell Varco Inc.,Energy
+NAVI,Navient Corp,Financials
 NTAP,NetApp,Information Technology
 NFLX,NetFlix Inc.,Information Technology
 NWL,Newell Rubbermaid Co.,Consumer Discretionary
@@ -368,7 +369,6 @@ PPG,PPG Industries,Materials
 PPL,PPL Corp.,Utilities
 PX,Praxair Inc.,Materials
 PCP,Precision Castparts,Industrials
-PCLN,Priceline.com Inc,Industrials
 PFG,Principal Financial Group,Financials
 PG,Procter & Gamble,Consumer Staples
 PGR,Progressive Corp.,Financials
@@ -410,7 +410,6 @@ SRE,Sempra Energy,Utilities
 SHW,Sherwin-Williams,Consumer Discretionary
 SIAL,Sigma-Aldrich,Materials
 SPG,Simon Property Group Inc,Financials
-SLM,SLM Corporation,Financials
 SJM,Smucker (J.M.),Consumer Staples
 SNA,Snap-On Inc.,Consumer Discretionary
 SO,Southern Co.,Utilities
@@ -439,6 +438,7 @@ TXN,Texas Instruments,Information Technology
 TXT,Textron Inc.,Industrials
 ADT,The ADT Corp.,Industrials
 BK,The Bank of New York Mellon Corp.,Financials
+PCLN,Priceline.com Inc,Industrials
 WMB,Williams Cos.,Energy
 TMO,Thermo Fisher Scientific,Health Care
 TIF,Tiffany & Co.,Consumer Discretionary
@@ -454,6 +454,7 @@ TRIP,TripAdvisor,Consumer Discretionary
 FOXA,"Twenty-First Century Fox, Inc",Consumer Discretionary
 TYC,Tyco International,Industrials
 TSN,Tyson Foods,Consumer Staples
+UA,Under Armour Inc A,Consumer Discretionary
 UNP,Union Pacific,Industrials
 UPS,United Parcel Service,Industrials
 X,United States Steel Corp.,Materials
