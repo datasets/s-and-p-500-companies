@@ -47,7 +47,7 @@ def process():
         print('Processed: %s rows' % (idx + 20))
 
     fo = open('data/constituents-financials.csv', 'w')
-    writer = csv.writer(fo)
+    writer = csv.writer(fo, lineterminator='\n')
     writer.writerows(outrows)
     fo.close()
 
