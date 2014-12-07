@@ -1,10 +1,2 @@
-chardet==2.1.1
-dataconverters==0.3
-json-table-schema==0.1
-lxml==3.3.5
-messytables==0.13.0
-python-dateutil==1.5
-python-magic==0.4.3
-unicodecsv==0.9.4
-wsgiref==0.1.2
 xlrd==0.9.3
+datautil

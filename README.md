@@ -10,9 +10,11 @@ Detailed information on the S&P 500 (primarily in xls format) can be obtained
 from its [official webpage on the Standard and Poor's website][sp-home] - it's
 free but registration is required.
 
-* Index listing - see <data/constituents.csv> extracted from [source xls on S&P
-  website][sp-listing] (<del>but note you have to register and login to
-  access</del> - no longer true as of August 2013)
+* Index listing - see <data/constituents.csv> extracted from [source Excel file
+  on S&P website][sp-listing-dec-2014] (Note this Excel is actually S&P 500 EPS
+  estimates but on sheet 4 it has list of members - [previous file][sp-lsting]
+  was just members but that 404s as of Dec 2014) (Note: <del>but note you have
+  to register and login to access</del> - no longer true as of August 2013)
 * Constituent financials - see <data/constituents-financials.csv> (source via Yahoo Finance)
 * Historical performance ([source xls on S&P website][sp-historical])
 
@@ -20,14 +22,16 @@ Notes:
 
 * Market Capitalization and EBIDTA are in Billions
 
-[sp-home]: http://www.standardandpoors.com/indices/sp-500/en/us/?indexId=spusa-500-usduf--p-us-l--
+[sp-home]: http://www.spindices.com/indices/equity/sp-500
+[sp-listing-dec-2014]: http://www.spindices.com/documents/additional-material/sp-500-eps-est.xlsx?force_download=true
 [sp-listing]: http://us.spindices.com/idsexport/file.xls?hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&selectedModule=Constituents&selectedSubModule=ConstituentsFullList&indexId=340
 [sp-historical]: http://www.standardandpoors.com/prot/spf/docs/indices/SPUSA-500-USDUF--P-US-L--HistoricalData.xls
 
 ### Additional materials
 
-Also provided is a [S&P 500 Google Docs spreadsheet][gdocs] incorporating
-all of the CSVs. This is licensed under the same terms as all the other data.
+Also provided is a [S&P 500 Google Docs spreadsheet][gdocs] incorporating all
+of the CSVs (but note this may not be kept up to date). This is licensed under
+the same terms as all the other data.
 
 *Note*: for aggregate information on the S&P (dividends, earnings etc) see
 [Standard and Poor's 500 Dataset][shiller]
