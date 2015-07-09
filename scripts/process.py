@@ -20,7 +20,7 @@ items = [
 ]
 params = ''.join([ x[0] for x in items ])
 
-url = 'http://finance.yahoo.com/d/quotes.csv?'
+url = 'http://download.finance.yahoo.com/d/quotes.csv?'
 edgar = 'http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK='
 
 reader = csv.reader(open(sp500))
@@ -33,7 +33,8 @@ def process():
     for idx in range(0,500,20):
         query = url + 's=' + '+'.join(symbols[idx:idx+20]) + '&f=' + params
         fo = urllib.urlopen(query)
-        rows = [ line.split(',') for line in fo.read().split('\r\n')[:-1] ]
+        tmpcsv  = csv.reader(fo)
+        rows = [ row for row in tmpcsv ]
         for count, row in enumerate(rows):
             realidx = idx + count + 1
             # change n/a to empty cell
