@@ -10,7 +10,7 @@ xlspath = 'cache/constituents.xls'
 path = 'data/constituents.csv'
 
 def execute():
-    # urllib.urlretrieve(source, xlspath)
+    urllib.urlretrieve(source, xlspath)
 
     existingr = csv.reader(open(path))
     header = existingr.next()
@@ -23,11 +23,11 @@ def execute():
     records = tabdata.data
 
     header = ['Symbol', 'Name', 'Sector']
-    # data beings on row 8
-    records = records[7:]
+    # data beings on row 7
+    records = records[6:]
 
     # sheet has: TICKER, COMPANY, ... SECTOR
-    records = [ [ fixsymbol(x[0]), fixname(x[1]), x[8] ] for x in records ]
+    records = [ [ fixsymbol(x[1]), fixname(x[2]), x[9] ] for x in records ]
     records.sort(key=lambda s: s[1].lower())
 
     writer = csv.writer(open(path, 'w'), lineterminator='\n')

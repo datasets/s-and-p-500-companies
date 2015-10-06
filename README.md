@@ -45,14 +45,19 @@ You need python plus [dataconverters][] library tool installed to run the
 scripts. You also probably need to be on Linux/Unix or Mac for the shell
 scripts to work.
 
+    pip install -r requirements.txt
+	mkdir cache
+
+NB : under debian-based distributions you might need to be able to compile and install the messytables dependencies : ``sudo apt-get install libxml2-dev libxslt-dev python-dev lib32z1-dev``
+
 [dataconverters]: http://okfnlabs.org/dataconverters/
 
 #### constituents.csv
 
-Run python script (this in turn runs the shell script
-`scripts/constituents.sh`):
+Run python script :
 
-      python scripts/constituents.py
+	python scripts/constituents.py
+
 
 ####  constituents-financials.csv
 
