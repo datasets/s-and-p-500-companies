@@ -36,8 +36,8 @@ file://../data/constituents.csv <- file://List_of_S%26P_500_companies.html ! pyt
     writer.writerows(records)    
 
     
-file://../data/constituents-financials.csv <- http://download.finance.yahoo.com/d/quotes.csv?&f=l1yreb4jkj1j4p5p6, file://../data/constituents.csv ! python
-# NB : adding http://download.finance.yahoo.com/d/quotes.csv?&f=l1yreb4jkj1j4p5p6 to the input resources 
+file://../data/constituents-financials.csv <- http://download.finance.yahoo.com/d/quotes.csv?s=MMM&f=l1yreb4jkj1j4p5p6, file://../data/constituents.csv ! python
+# NB : adding http://download.finance.yahoo.com/d/quotes.csv?s=MMM&f=l1yreb4jkj1j4p5p6 to the input resources 
 # is a brutal way to force invalidation of constituents-financials.csv, in order to follow the regular 
 # change of the yahoo API results
 	
