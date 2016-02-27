@@ -1,5 +1,0 @@
-xlrd==0.9.3
-datautil
-dataconverters
-unicodecsv
-messytables
