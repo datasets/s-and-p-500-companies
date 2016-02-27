@@ -1,5 +1,5 @@
 List_of_S%26P_500_companies.html:
-	wget https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+    curl -OList_of_S%26P_500_companies.html https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 
 ../data/constituents.csv: List_of_S%26P_500_companies.html constituents.py
 	python consituents.py
