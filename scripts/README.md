@@ -1,9 +1,11 @@
 # Run the scripts
-These Linux scripts scrape data from Wikipedia page about S&P500 and computes a datapackage augmented with yahoo webservices.
+These **Linux** scripts scrape data from Wikipedia page about S&P500 and computes a datapackage augmented with yahoo webservices.
+
+They have been tested under Debian Jessy.
 
 
 ## Install the dependencies
-The scripts work with some python code glued together with a makefile.
+The scripts work with some python and shell scripts glued together with a Makefile.
 
 Install the required python libraries :
 
