@@ -1,11 +1,11 @@
 # Run the scripts
-These Linux scripts retrieve data from Standard and Poor's website, computes a datapackage augmented with yahoo webservices.
+These Linux scripts scrape data from Wikipedia page about S&P500 and computes a datapackage augmented with yahoo webservices.
 
 
 ## Install the dependencies
-The scripts work with some python code and are glued together with [tuttle](github.com/lexman/tuttle), a *make for data*.
+The scripts work with some python code glued together with a makefile.
 
-Install all dependencies :
+Install the required python libraries :
 
     cd scripts
     pip install -r requirements.txt
