@@ -1,3 +1,5 @@
+all: ../data/constituents-financials.csv
+
 List_of_S%26P_500_companies.html:
 	curl -o List_of_S%26P_500_companies.html "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
 
