@@ -1,0 +1,34 @@
+language: python
+python:
+  - 2.7
+
+install:
+  - pip install --upgrade -r scripts/requirements.txt
+# Avoid warnings from git :
+  - git config --global push.default simple
+  - git config --global user.email "datasets-update-bot@lexman.org"
+  - git config --global user.name "Update bot"
+
+before_script:
+# Add the ssh key
+  - echo "-----BEGIN RSA PRIVATE KEY-----" >> ~/.ssh/id_rsa
+  - echo "$SSH_PUSH_KEY" | sed 's/ /\n/g' >> ~/.ssh/id_rsa
+  - echo "-----END RSA PRIVATE KEY-----" >> ~/.ssh/id_rsa
+  - chmod 600 ~/.ssh/id_rsa
+# Add remote for ssh access
+  - git remote add publish git@github.com:$TRAVIS_REPO_SLUG.git
+
+script:
+  - cd scripts
+  - make valid.txt
+
+before_deploy:
+# Git is in detached HEAD, so we get back on the branch we are supposed to be
+  - git checkout -B $TRAVIS_BRANCH
+
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: make pushed.txt
+  on:
+    all_branches: true
