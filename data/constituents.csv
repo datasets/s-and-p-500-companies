@@ -12,15 +12,16 @@ AET,Aetna Inc,Health Care
 AMG,Affiliated Managers Group Inc,Financials
 AFL,AFLAC Inc,Financials
 A,Agilent Technologies Inc,Health Care
-GAS,AGL Resources Inc.,Utilities
 APD,Air Products & Chemicals Inc,Materials
 AKAM,Akamai Technologies Inc,Information Technology
 ALK,Alaska Air Group Inc,Industrials
+ALB,Albemarle Corp,Materials
 AA,Alcoa Inc,Materials
 ALXN,Alexion Pharmaceuticals,Health Care
 ALLE,Allegion,Industrials
 AGN,Allergan plc,Health Care
 ADS,Alliance Data Systems,Information Technology
+LNT,Alliant Energy Corp,Utilities
 ALL,Allstate Corp,Financials
 GOOGL,Alphabet Inc Class A,Information Technology
 GOOG,Alphabet Inc Class C,Information Technology
@@ -424,7 +425,6 @@ SYY,Sysco Corp.,Consumer Staples
 TROW,T. Rowe Price Group,Financials
 TGT,Target Corp.,Consumer Discretionary
 TEL,TE Connectivity Ltd.,Information Technology
-TE,TECO Energy,Utilities
 TGNA,Tegna,Consumer Discretionary
 TDC,Teradata Corp.,Information Technology
 TSO,Tesoro Petroleum Co.,Energy
