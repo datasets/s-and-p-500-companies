@@ -43,20 +43,20 @@ APC,Anadarko Petroleum Corp,Energy,54.89,0.38,,-8.77,22.90,28.16,78.59,28.02,2.5
 ADI,"Analog Devices, Inc.",Information Technology,56.63,2.97,27.49,2.06,15.86,47.24,64.31,17.41,1.23,5.13,3.57,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADI
 ANTM,Anthem Inc.,Health Care,131.67,1.98,14.81,8.89,89.59,115.63,162.66,34.62,5.60,0.43,1.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ANTM
 AON,Aon plc,Financials,109.77,1.24,22.43,4.89,19.94,83.83,110.17,29.08,2.54,2.49,5.48,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AON
-APA,Apache Corporation,Energy,56.67,1.79,,-50.15,5.33,32.20,59.59,21.45,3.18,3.71,10.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APA
-AIV,Apartment Investment & Mgmt,Financials,44.51,3.04,40.80,1.09,9.22,34.71,44.73,6.97,0.56178,7.20,4.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIV
-AAPL,Apple Inc.,Information Technology,95.89,2.42,10.67,8.98,23.81,89.47,132.97,525.23,78.50,2.30,4.01,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL
-AMAT,Applied Materials Inc,Information Technology,23.89,1.70,22.12,1.08,6.03,14.25,24.65,26.02,1.98,2.73,3.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMAT
-ADM,Archer-Daniels-Midland Co,Consumer Staples,42.61,2.89,16.34,2.61,30.49,29.86,49.50,25.04,2.62,0.39,1.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADM
+APA,Apache Corporation,Energy,56.67,1.80,,-50.15,5.33,32.20,59.59,21.45,3.18,3.71,10.44,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=APA
+AIV,Apartment Investment & Mgmt,Financials,44.51,2.99,40.80,1.09,9.22,34.71,44.73,6.97,0.56178,7.20,4.79,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIV
+AAPL,Apple Inc.,Information Technology,95.89,2.38,10.67,8.98,23.81,89.47,132.97,525.23,78.50,2.30,4.01,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL
+AMAT,Applied Materials Inc,Information Technology,23.89,1.67,22.12,1.08,6.03,14.25,24.65,26.02,1.98,2.73,3.98,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMAT
+ADM,Archer-Daniels-Midland Co,Consumer Staples,42.61,2.80,16.34,2.61,30.49,29.86,49.50,25.04,2.62,0.39,1.41,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADM
 AJG,Arthur J. Gallagher & Co.,Financials,47.80,3.19,22.05,2.17,20.31,35.96,48.64,8.47,0.8309,1.57,2.34,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AJG
-AIZ,Assurant Inc,Financials,87.95,2.29,19.15,4.59,72.87,64.36,89.22,5.45,0.62009,0.54,1.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIZ
-T,AT&T Inc,Telecommunications Services,43.47,4.51,18.42,2.36,20.05,30.97,43.55,267.60,49.76,1.72,2.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=T
-ADSK,Autodesk Inc,Information Technology,54.34,0.00,,-1.46,6.39,41.60,65.78,12.21,0.0225,5.13,8.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADSK
+AIZ,Assurant Inc,Financials,87.95,2.32,19.15,4.59,72.87,64.36,89.22,5.45,0.62009,0.54,1.18,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIZ
+T,AT&T Inc,Telecommunications Services,43.47,4.44,18.42,2.36,20.05,30.97,43.55,267.60,49.76,1.72,2.16,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=T
+ADSK,Autodesk Inc,Information Technology,54.34,0.00,,-2.32,6.39,41.60,65.78,12.21,0.0225,5.13,8.47,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADSK
 ADP,Automatic Data Processing,Information Technology,92.75,2.45,27.76,3.34,9.87,64.29,92.97,42.25,2.41,3.65,9.31,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADP
 AN,AutoNation Inc,Consumer Discretionary,47.83,,12.51,3.82,20.28,40.45,66.63,4.93,0.9987,0.23,2.32,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AN
 AZO,AutoZone Inc,Consumer Discretionary,798.72,,20.29,39.36,-63.16,667.00,810.00,23.35,2.32,2.20,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AZO
-AVGO,Avago Technologies,Information Technology,154.22,1.37,,-0.69,49.90,100.00,166.00,61.00,3.51,6.92,3.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO
-AVB,"AvalonBay Communities, Inc.",Financials,180.72,3.03,31.76,5.69,71.79,159.30,192.29,24.79,1.26,12.65,2.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVB
+AVGO,Avago Technologies,Information Technology,154.22,1.29,,-0.69,49.90,100.00,166.00,61.00,3.51,6.92,3.11,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO
+AVB,"AvalonBay Communities, Inc.",Financials,180.72,2.88,31.76,5.69,71.79,159.30,192.29,24.79,1.26,12.65,2.51,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVB
 AVY,Avery Dennison Corp,Materials,72.62,2.19,23.09,3.14,10.85,53.56,77.38,6.48,0.7115,1.13,6.89,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVY
 BHI,Baker Hughes Inc,Energy,45.83,1.51,,-5.37,34.98,37.58,61.70,20.07,1.39,1.43,1.29,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BHI
 BLL,Ball Corp,Materials,71.41,0.73,76.46,0.93,7.54,57.95,76.69,10.12,1.07,1.31,9.58,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BLL
