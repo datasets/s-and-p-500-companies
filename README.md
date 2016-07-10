@@ -60,4 +60,3 @@ Pollock][rp] and the [Open Knowledge Foundation][okfn] is much appreciated.
 [pddl]: http://opendatacommons.org/licenses/pddl/1.0/
 [rp]: http://dev.rufuspollock.org/
 [okfn]: http://okfn.org/
-
