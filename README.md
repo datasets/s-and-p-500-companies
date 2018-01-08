@@ -36,11 +36,7 @@ Notes:
 
 [shiller]: http://data.okfn.org/data/s-and-p-500
 
-### Preparation
-
-You can run the script yourself to update the data and publish them to github : see [scripts README](scripts/README.md)
-
-## General Financial Notes
+### General Financial Notes
 
 Publicly listed US companies are obliged various reports on a regular basis
 with the SEC. Of these 2 types are of especial interest to investors and others
@@ -48,6 +44,10 @@ interested in their finances and business. These are:
 
 * 10-K = Annual Report
 * 10-Q = Quarterly report
+
+## Preparation
+
+You can run the script yourself to update the data and publish them to github : see [scripts README](scripts/README.md)
 
 ## License
 
