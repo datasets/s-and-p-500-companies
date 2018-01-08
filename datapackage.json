@@ -108,7 +108,7 @@
           {
             "name": "SEC Filings",
             "description": "",
-            "format": "url",
+            "format": "uri",
             "type": "string"
           }
         ]
