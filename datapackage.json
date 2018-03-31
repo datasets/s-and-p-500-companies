@@ -1,6 +1,7 @@
 {
   "name": "s-and-p-500-companies",
   "title": "S&P 500 Companies with Financial Information",
+  "version": "1.0",
   "licenses": [
     {
       "name": "ODC-PDDL-1.0",
