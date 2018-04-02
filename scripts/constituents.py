@@ -48,7 +48,7 @@ def extract():
     writer.writerows(records)    
 
 def process():
-    # retrieve()
+    retrieve()
     extract()
 
 if __name__ == '__main__':
