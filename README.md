@@ -1,8 +1,7 @@
 List of companies in the S&P 500 (Standard and Poor's 500). The S&P 500 is a
 free-float, capitalization-weighted index of the top 500 publicly listed stocks
 in the US (top 500 by market cap). The dataset includes a list of all the
-stocks contained therein and associated key financials such as price, market
-capitalization, earnings, price/earnings ratio, price to book etc.
+stocks contained therein.
 
 ## Data
 
@@ -10,18 +9,15 @@ Information on S&P 500 index used to be available on the [official webpage on th
 but until they publish it back, Wikipedia is the best up-to-date and open data source.
 
 * Index listing - see <data/constituents.csv> extracted from wikipedia's [SP500 list of companies][sp-list]
-* Constituent financials - see <data/constituents-financials.csv> (source via Yahoo Finance)
+
+### Sources
 
 Detailed information on the S&P 500 (primarily in xls format) used to be obtained
 from its [official webpage on the Standard and Poor's website][sp-home] - it was
 free but registration was required.
-* Index listing - see <data/constituents.csv> - derived from [curated list on Wikipedia][sp-list]
+* Index listing - see <data/constituents.csv>
   * used to be extracted from [source Excel file on S&P website][sp-listing-dec-2014] but this no longer contains a list of constituents. (Note this Excel was actually S&P 500 EPS estimates but on sheet 4 it used to have a list of members - [previous file][sp-listing] was just members but that 404s as of Dec 2014) (Note: <del>but note you have to register and login to access</del> - no longer true as of August 2013)
 * Historical performance ([source xls on S&P website][sp-historical])
-
-Notes:
-
-* Market Capitalization and EBIDTA are in Billions
 
 [sp-home]: http://www.spindices.com/indices/equity/sp-500
 [sp-list]: http://en.wikipedia.org/wiki/List_of_S%26P_500_companies
@@ -56,5 +52,5 @@ Note that while no credit is formally required a link back or credit to [Rufus
 Pollock][rp] and the [Open Knowledge Foundation][okfn] is much appreciated.
 
 [pddl]: http://opendatacommons.org/licenses/pddl/1.0/
-[rp]: http://dev.rufuspollock.org/
+[rp]: http://rufuspollock.com/
 [okfn]: http://okfn.org/
