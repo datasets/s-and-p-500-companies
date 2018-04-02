@@ -35,7 +35,8 @@ def extract():
         fields = row.findAll('td')
         if fields:
             symbol = fields[0].string
-            name = fields[1].string
+            # fix as now they have links to the companies on WP
+            name = ' '.join(fields[1].stripped_strings)
             sector = fields[3].string
             records.append([symbol, name, sector])
 
@@ -47,7 +48,7 @@ def extract():
     writer.writerows(records)    
 
 def process():
-    retrieve()
+    # retrieve()
     extract()
 
 if __name__ == '__main__':
