@@ -15,10 +15,8 @@ but until they publish it back, Wikipedia is the best up-to-date and open data s
 Detailed information on the S&P 500 (primarily in xls format) used to be obtained
 from its [official webpage on the Standard and Poor's website][sp-home] - it was
 free but registration was required.
-* Index listing - see <data/constituents.csv> used to be extracted from [source Excel file on S&P website][sp-listing-dec-2014] (Note this Excel is actually S&P 500 EPS 
-   estimates but on sheet 4 it has list of members - [previous file][sp-lsting]
-   was just members but that 404s as of Dec 2014) (Note: <del>but note you have
-   to register and login to access</del> - no longer true as of August 2013)
+* Index listing - see <data/constituents.csv> - derived from [curated list on Wikipedia][sp-list]
+  * used to be extracted from [source Excel file on S&P website][sp-listing-dec-2014] but this no longer contains a list of constituents. (Note this Excel was actually S&P 500 EPS estimates but on sheet 4 it used to have a list of members - [previous file][sp-listing] was just members but that 404s as of Dec 2014) (Note: <del>but note you have to register and login to access</del> - no longer true as of August 2013)
 * Historical performance ([source xls on S&P website][sp-historical])
 
 Notes:
