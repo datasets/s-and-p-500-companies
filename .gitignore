@@ -1,2 +1,4 @@
 .*.swp
 cache/*
+.idea
+tmp

@@ -12,6 +12,7 @@ valid.txt: ../data/constituents.csv ../data/constituents-financials.csv ../datap
 
 pushed.txt: valid.txt
 	git add ../data/constituents.csv ../data/constituents-financials.csv
+	git add ../data/constituents_symbols.txt ../data/constituents-symbols.txt
 	git commit -m "[data][skip ci] automatic update" || exit 0
 	git push publish
 	echo "Update has been pushed if there was a change" > pushed.txt
