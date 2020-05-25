@@ -20,12 +20,11 @@ ARE,Alexandria Real Estate Equities,Real Estate
 ALXN,Alexion Pharmaceuticals,Health Care
 ALGN,Align Technology,Health Care
 ALLE,Allegion,Industrials
-AGN,Allergan plc,Health Care
 ADS,Alliance Data Systems,Information Technology
 LNT,Alliant Energy Corp,Utilities
 ALL,Allstate Corp,Financials
-GOOGL,Alphabet Inc Class A,Communication Services
-GOOG,Alphabet Inc Class C,Communication Services
+GOOGL,Alphabet Inc. (Class A),Communication Services
+GOOG,Alphabet Inc. (Class C),Communication Services
 MO,Altria Group Inc,Consumer Staples
 AMZN,Amazon.com Inc.,Consumer Discretionary
 AMCR,Amcor plc,Materials
@@ -84,7 +83,6 @@ COG,Cabot Oil & Gas,Energy
 CDNS,Cadence Design Systems,Information Technology
 CPB,Campbell Soup,Consumer Staples
 COF,Capital One Financial,Financials
-CPRI,Capri Holdings,Consumer Discretionary
 CAH,Cardinal Health Inc.,Health Care
 KMX,Carmax Inc,Consumer Discretionary
 CCL,Carnival Corp.,Consumer Discretionary
@@ -141,15 +139,17 @@ DE,Deere & Co.,Industrials
 DAL,Delta Air Lines Inc.,Industrials
 XRAY,Dentsply Sirona,Health Care
 DVN,Devon Energy,Energy
+DXCM,DexCom,Health Care
 FANG,Diamondback Energy,Energy
 DLR,Digital Realty Trust Inc,Real Estate
 DFS,Discover Financial Services,Financials
-DISCA,Discovery Inc. Class A,Communication Services
-DISCK,Discovery Inc. Class C,Communication Services
+DISCA,Discovery Inc. (Class A),Communication Services
+DISCK,Discovery Inc. (Class C),Communication Services
 DISH,Dish Network,Communication Services
 DG,Dollar General,Consumer Discretionary
 DLTR,Dollar Tree,Consumer Discretionary
 D,Dominion Energy,Utilities
+DPZ,Domino's Pizza,Consumer Discretionary
 DOV,Dover Corporation,Industrials
 DOW,Dow Inc.,Materials
 DTE,DTE Energy Co.,Utilities
@@ -199,8 +199,8 @@ F,Ford Motor Company,Consumer Discretionary
 FTNT,Fortinet,Information Technology
 FTV,Fortive Corp,Industrials
 FBHS,Fortune Brands Home & Security,Industrials
-FOXA,Fox Corporation Class A,Communication Services
-FOX,Fox Corporation Class B,Communication Services
+FOXA,Fox Corporation (Class A),Communication Services
+FOX,Fox Corporation (Class B),Communication Services
 BEN,Franklin Resources,Financials
 FCX,Freeport-McMoRan Inc.,Materials
 GPS,Gap Inc.,Consumer Discretionary
@@ -224,7 +224,6 @@ HIG,Hartford Financial Svc.Gp.,Financials
 HAS,Hasbro Inc.,Consumer Discretionary
 HCA,HCA Healthcare,Health Care
 PEAK,Healthpeak Properties,Real Estate
-HP,Helmerich & Payne,Energy
 HSIC,Henry Schein,Health Care
 HES,Hess Corporation,Energy
 HPE,Hewlett Packard Enterprise,Information Technology
@@ -457,8 +456,8 @@ TSN,Tyson Foods,Consumer Staples
 USB,U.S. Bancorp,Financials
 UDR,UDR Inc.,Real Estate
 ULTA,Ulta Beauty,Consumer Discretionary
-UAA,Under Armour Class A,Consumer Discretionary
-UA,Under Armour Class C,Consumer Discretionary
+UAA,Under Armour (Class A),Consumer Discretionary
+UA,Under Armour (Class C),Consumer Discretionary
 UNP,Union Pacific Corp,Industrials
 UAL,United Airlines Holdings,Industrials
 UNH,United Health Group Inc.,Health Care
@@ -487,6 +486,7 @@ WAT,Waters Corporation,Health Care
 WEC,WEC Energy Group,Utilities
 WFC,Wells Fargo,Financials
 WELL,Welltower Inc.,Real Estate
+WST,West Pharmaceutical Services,Health Care
 WDC,Western Digital,Information Technology
 WU,Western Union Co,Information Technology
 WRK,WestRock,Materials
