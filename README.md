@@ -8,11 +8,11 @@ stocks contained therein.
 Information on S&P 500 index used to be available on the [official webpage on the Standard and Poor's website][sp-home]
 but until they publish it back, Wikipedia is the best up-to-date and open data source.
 
-* Index listing - see <data/constituents.csv> extracted from wikipedia's [SP500 list of companies][sp-list]
+* Index listing - see <data/constituents.csv> extracted from Wikipedia's [SP500 list of companies][sp-list].
 
 ### Sources
 
-Detailed information on the S&P 500 (primarily in xls format) used to be obtained
+Detailed information on the S&P 500 (primarily in XLS format) used to be obtained
 from its [official webpage on the Standard and Poor's website][sp-home] - it was
 free but registration was required.
 * Index listing - see <data/constituents.csv>
@@ -25,8 +25,8 @@ free but registration was required.
 [sp-listing]: http://us.spindices.com/idsexport/file.xls?hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&selectedModule=Constituents&selectedSubModule=ConstituentsFullList&indexId=340
 [sp-historical]: http://www.standardandpoors.com/prot/spf/docs/indices/SPUSA-500-USDUF--P-US-L--HistoricalData.xls
 
-*Note*: for aggregate information on the S&P (dividends, earnings etc) see
-[Standard and Poor's 500 Dataset][shiller]
+*Note*: for aggregate information on the S&P (dividends, earnings, etc.) see
+[Standard and Poor's 500 Dataset][shiller].
 
 [shiller]: http://data.okfn.org/data/s-and-p-500
 
@@ -41,7 +41,7 @@ interested in their finances and business. These are:
 
 ## Preparation
 
-You can run the script yourself to update the data and publish them to github : see [scripts README](scripts/README.md)
+You can run the script yourself to update the data and publish them to GitHub : see [scripts README](https://github.com/datasets/s-and-p-500-companies/blob/master/scripts/README.md).
 
 ## License
 
