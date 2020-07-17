@@ -20,7 +20,6 @@ ARE,Alexandria Real Estate Equities,Real Estate
 ALXN,Alexion Pharmaceuticals,Health Care
 ALGN,Align Technology,Health Care
 ALLE,Allegion,Industrials
-ADS,Alliance Data Systems,Information Technology
 LNT,Alliant Energy Corp,Utilities
 ALL,Allstate Corp,Financials
 GOOGL,Alphabet Inc. (Class A),Communication Services
@@ -67,6 +66,7 @@ BAX,Baxter International Inc.,Health Care
 BDX,Becton Dickinson,Health Care
 BRK.B,Berkshire Hathaway,Financials
 BBY,Best Buy Co. Inc.,Consumer Discretionary
+BIO,Bio-Rad Laboratories,Health Care
 BIIB,Biogen Inc.,Health Care
 BLK,BlackRock,Financials
 BA,Boeing Company,Industrials
@@ -219,7 +219,6 @@ GWW,Grainger (W.W.) Inc.,Industrials
 HRB,H&R Block,Consumer Discretionary
 HAL,Halliburton Co.,Energy
 HBI,Hanesbrands Inc,Consumer Discretionary
-HOG,Harley-Davidson,Consumer Discretionary
 HIG,Hartford Financial Svc.Gp.,Financials
 HAS,Hasbro Inc.,Consumer Discretionary
 HCA,HCA Healthcare,Health Care
@@ -339,7 +338,6 @@ NLSN,Nielsen Holdings,Industrials
 NKE,Nike,Consumer Discretionary
 NI,NiSource Inc.,Utilities
 NBL,Noble Energy Inc,Energy
-JWN,Nordstrom,Consumer Discretionary
 NSC,Norfolk Southern Corp.,Industrials
 NTRS,Northern Trust Corp.,Financials
 NOC,Northrop Grumman,Industrials
@@ -434,6 +432,7 @@ TPR,Tapestry Inc.,Consumer Discretionary
 TGT,Target Corp.,Consumer Discretionary
 TEL,TE Connectivity Ltd.,Information Technology
 FTI,TechnipFMC,Energy
+TDY,Teledyne Technologies,Industrials
 TFX,Teleflex,Health Care
 TXN,Texas Instruments,Information Technology
 TXT,Textron Inc.,Industrials
@@ -452,6 +451,7 @@ TT,Trane Technologies plc,Industrials
 TDG,TransDigm Group,Industrials
 TFC,Truist Financial,Financials
 TWTR,Twitter Inc.,Communication Services
+TYL,Tyler Technologies,Technology
 TSN,Tyson Foods,Consumer Staples
 USB,U.S. Bancorp,Financials
 UDR,UDR Inc.,Real Estate
