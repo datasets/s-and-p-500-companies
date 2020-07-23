@@ -248,9 +248,9 @@ IR,Ingersoll Rand,Industrials
 INTC,Intel Corp.,Information Technology
 ICE,Intercontinental Exchange,Financials
 IBM,International Business Machines,Information Technology
+IFF,International Flavors & Fragrances,Materials
 IP,International Paper,Materials
 IPG,Interpublic Group,Communication Services
-IFF,Intl Flavors & Fragrances,Materials
 INTU,Intuit Inc.,Information Technology
 ISRG,Intuitive Surgical Inc.,Health Care
 IVZ,Invesco Ltd.,Financials
@@ -317,7 +317,7 @@ MU,Micron Technology,Information Technology
 MSFT,Microsoft Corp.,Information Technology
 MAA,Mid-America Apartments,Real Estate
 MHK,Mohawk Industries,Consumer Discretionary
-TAP,Molson Coors Brewing Company,Consumer Staples
+TAP,Molson Coors Beverage Company,Consumer Staples
 MDLZ,Mondelez International,Consumer Staples
 MNST,Monster Beverage,Consumer Staples
 MCO,Moody's Corp,Financials
@@ -378,7 +378,7 @@ PG,Procter & Gamble,Consumer Staples
 PGR,Progressive Corp.,Financials
 PLD,Prologis,Real Estate
 PRU,Prudential Financial,Financials
-PEG,Public Serv. Enterprise Inc.,Utilities
+PEG,Public Service Enterprise Group (PSEG),Utilities
 PSA,Public Storage,Real Estate
 PHM,PulteGroup,Consumer Discretionary
 PVH,PVH Corp.,Consumer Discretionary
@@ -465,7 +465,6 @@ UPS,United Parcel Service,Industrials
 URI,United Rentals Inc.,Industrials
 UHS,Universal Health Services Inc.,Health Care
 UNM,Unum Group,Financials
-VFC,V.F. Corp.,Consumer Discretionary
 VLO,Valero Energy,Energy
 VAR,Varian Medical Systems,Health Care
 VTR,Ventas Inc,Real Estate
@@ -473,6 +472,7 @@ VRSN,Verisign Inc.,Information Technology
 VRSK,Verisk Analytics,Industrials
 VZ,Verizon Communications,Communication Services
 VRTX,Vertex Pharmaceuticals Inc,Health Care
+VFC,VF Corporation,Consumer Discretionary
 VIAC,ViacomCBS,Communication Services
 V,Visa Inc.,Information Technology
 VNO,Vornado Realty Trust,Real Estate
