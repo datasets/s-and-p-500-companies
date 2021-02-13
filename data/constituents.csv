@@ -3,40 +3,40 @@ MMM,3M Company,Industrials
 AOS,A.O. Smith Corp,Industrials
 ABT,Abbott Laboratories,Health Care
 ABBV,AbbVie Inc.,Health Care
-ABMD,ABIOMED Inc,Health Care
-ACN,Accenture plc,Information Technology
+ABMD,Abiomed,Health Care
+ACN,Accenture,Information Technology
 ATVI,Activision Blizzard,Communication Services
 ADBE,Adobe Inc.,Information Technology
 AAP,Advance Auto Parts,Consumer Discretionary
-AMD,Advanced Micro Devices Inc,Information Technology
+AMD,Advanced Micro Devices,Information Technology
 AES,AES Corp,Utilities
-AFL,AFLAC Inc,Financials
-A,Agilent Technologies Inc,Health Care
-APD,Air Products & Chemicals Inc,Materials
-AKAM,Akamai Technologies Inc,Information Technology
-ALK,Alaska Air Group Inc,Industrials
-ALB,Albemarle Corp,Materials
+AFL,Aflac,Financials
+A,Agilent Technologies,Health Care
+APD,Air Products & Chemicals,Materials
+AKAM,Akamai Technologies,Information Technology
+ALK,Alaska Air Group,Industrials
+ALB,Albemarle Corporation,Materials
 ARE,Alexandria Real Estate Equities,Real Estate
 ALXN,Alexion Pharmaceuticals,Health Care
 ALGN,Align Technology,Health Care
 ALLE,Allegion,Industrials
-LNT,Alliant Energy Corp,Utilities
+LNT,Alliant Energy,Utilities
 ALL,Allstate Corp,Financials
 GOOGL,Alphabet Inc. (Class A),Communication Services
 GOOG,Alphabet Inc. (Class C),Communication Services
 MO,Altria Group Inc,Consumer Staples
 AMZN,Amazon.com Inc.,Consumer Discretionary
-AMCR,Amcor plc,Materials
+AMCR,Amcor,Materials
 AEE,Ameren Corp,Utilities
 AAL,American Airlines Group,Industrials
 AEP,American Electric Power,Utilities
-AXP,American Express Co,Financials
+AXP,American Express,Financials
 AIG,American International Group,Financials
 AMT,American Tower Corp.,Real Estate
-AWK,American Water Works Company Inc,Utilities
+AWK,American Water Works,Utilities
 AMP,Ameriprise Financial,Financials
-ABC,AmerisourceBergen Corp,Health Care
-AME,AMETEK Inc.,Industrials
+ABC,AmerisourceBergen,Health Care
+AME,Ametek,Industrials
 AMGN,Amgen Inc.,Health Care
 APH,Amphenol Corp,Information Technology
 ADI,Analog Devices Inc.,Information Technology
@@ -102,7 +102,7 @@ CVX,Chevron Corp.,Energy
 CMG,Chipotle Mexican Grill,Consumer Discretionary
 CB,Chubb Limited,Financials
 CHD,Church & Dwight,Consumer Staples
-CI,CIGNA Corp.,Health Care
+CI,Cigna,Health Care
 CINF,Cincinnati Financial,Financials
 CTAS,Cintas Corporation,Industrials
 CSCO,Cisco Systems,Information Technology
@@ -124,7 +124,7 @@ CPRT,Copart Inc,Industrials
 GLW,Corning Inc.,Information Technology
 CTVA,Corteva,Materials
 COST,Costco Wholesale Corp.,Consumer Staples
-CCI,Crown Castle International Corp.,Real Estate
+CCI,Crown Castle,Real Estate
 CSX,CSX Corp.,Industrials
 CMI,Cummins Inc.,Industrials
 CVS,CVS Health,Health Care
@@ -236,8 +236,8 @@ HUM,Humana Inc.,Health Care
 HBAN,Huntington Bancshares,Financials
 HII,Huntington Ingalls Industries,Industrials
 IEX,IDEX Corporation,Industrials
-IDXX,IDEXX Laboratories,Health Care
-INFO,IHS Markit Ltd.,Industrials
+IDXX,Idexx Laboratories,Health Care
+INFO,IHS Markit,Industrials
 ITW,Illinois Tool Works,Industrials
 ILMN,Illumina Inc,Health Care
 INCY,Incyte,Health Care
@@ -291,16 +291,16 @@ L,Loews Corp.,Financials
 LOW,Lowe's Cos.,Consumer Discretionary
 LUMN,Lumen Technologies,Communication Services
 LYB,LyondellBasell,Materials
-MTB,M&T Bank Corp.,Financials
+MTB,M&T Bank,Financials
 MRO,Marathon Oil Corp.,Energy
 MPC,Marathon Petroleum,Energy
 MKTX,MarketAxess,Financials
-MAR,Marriott Int'l.,Consumer Discretionary
+MAR,Marriott International,Consumer Discretionary
 MMC,Marsh & McLennan,Financials
 MLM,Martin Marietta Materials,Materials
 MAS,Masco Corp.,Industrials
 MA,Mastercard Inc.,Information Technology
-MXIM,Maxim Integrated Products Inc,Information Technology
+MXIM,Maxim Integrated Products,Information Technology
 MKC,McCormick & Co.,Consumer Staples
 MCD,McDonald's Corp.,Consumer Discretionary
 MCK,McKesson Corp.,Health Care
@@ -346,10 +346,10 @@ ORLY,O'Reilly Automotive,Consumer Discretionary
 OXY,Occidental Petroleum,Energy
 ODFL,Old Dominion Freight Line,Industrials
 OMC,Omnicom Group,Communication Services
-OKE,ONEOK,Energy
+OKE,Oneok,Energy
 ORCL,Oracle Corp.,Information Technology
 OTIS,Otis Worldwide,Industrials
-PCAR,PACCAR Inc.,Industrials
+PCAR,Paccar,Industrials
 PKG,Packaging Corporation of America,Materials
 PH,Parker-Hannifin,Industrials
 PAYX,Paychex Inc.,Information Technology
@@ -379,11 +379,11 @@ PSA,Public Storage,Real Estate
 PHM,PulteGroup,Consumer Discretionary
 PVH,PVH Corp.,Consumer Discretionary
 QRVO,Qorvo,Information Technology
-QCOM,QUALCOMM Inc.,Information Technology
+QCOM,Qualcomm,Information Technology
 PWR,Quanta Services Inc.,Industrials
 DGX,Quest Diagnostics,Health Care
 RL,Ralph Lauren Corporation,Consumer Discretionary
-RJF,Raymond James Financial Inc.,Financials
+RJF,Raymond James Financial,Financials
 RTX,Raytheon Technologies,Industrials
 O,Realty Income Corporation,Real Estate
 REG,Regency Centers Corporation,Real Estate
@@ -415,7 +415,7 @@ LUV,Southwest Airlines,Industrials
 SWK,Stanley Black & Decker,Industrials
 SBUX,Starbucks Corp.,Consumer Discretionary
 STT,State Street Corp.,Financials
-STE,STERIS plc,Health Care
+STE,Steris,Health Care
 SYK,Stryker Corp.,Health Care
 SIVB,SVB Financial,Financials
 SYF,Synchrony Financial,Financials
@@ -439,7 +439,7 @@ CLX,The Clorox Company,Consumer Staples
 COO,The Cooper Companies,Health Care
 HSY,The Hershey Company,Consumer Staples
 MOS,The Mosaic Company,Materials
-TRV,The Travelers Companies Inc.,Financials
+TRV,The Travelers Companies,Financials
 DIS,The Walt Disney Company,Communication Services
 TMO,Thermo Fisher Scientific,Health Care
 TJX,TJX Companies Inc.,Consumer Discretionary
