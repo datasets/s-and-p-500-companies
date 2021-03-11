@@ -28,7 +28,6 @@ MO,Altria Group Inc,Consumer Staples
 AMZN,Amazon.com Inc.,Consumer Discretionary
 AMCR,Amcor,Materials
 AEE,Ameren Corp,Utilities
-AAL,American Airlines Group,Industrials
 AEP,American Electric Power,Utilities
 AXP,American Express,Financials
 AIG,American International Group,Financials
@@ -390,6 +389,7 @@ O,Realty Income Corporation,Real Estate
 REG,Regency Centers Corporation,Real Estate
 REGN,Regeneron Pharmaceuticals,Health Care
 RF,Regions Financial Corp.,Financials
+American Airlines Group,reports,Airlines
 RSG,Republic Services Inc,Industrials
 RMD,ResMed,Health Care
 RHI,Robert Half International,Industrials

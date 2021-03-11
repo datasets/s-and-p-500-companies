@@ -21,7 +21,7 @@ ALL
 AMZN
 AMCR
 AEE
-AAL
+American Airlines Group
 AEP
 AXP
 AIG
