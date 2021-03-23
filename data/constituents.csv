@@ -80,6 +80,7 @@ BF.B,Brown-Forman Corp.,Consumer Staples
 CHRW,C. H. Robinson Worldwide,Industrials
 COG,Cabot Oil & Gas,Energy
 CDNS,Cadence Design Systems,Information Technology
+CZR,Caesars Entertainment,Consumer Discretionary
 CPB,Campbell Soup,Consumer Staples
 COF,Capital One Financial,Financials
 CAH,Cardinal Health Inc.,Health Care
@@ -191,7 +192,6 @@ FE,FirstEnergy Corp,Utilities
 FISV,Fiserv Inc,Information Technology
 FLT,FleetCor Technologies Inc,Information Technology
 FLIR,FLIR Systems,Information Technology
-FLS,Flowserve Corporation,Industrials
 FMC,FMC Corporation,Materials
 F,Ford Motor Company,Consumer Discretionary
 FTNT,Fortinet,Information Technology
@@ -204,6 +204,7 @@ FCX,Freeport-McMoRan Inc.,Materials
 GPS,Gap Inc.,Consumer Discretionary
 GRMN,Garmin Ltd.,Consumer Discretionary
 IT,Gartner Inc,Information Technology
+GNRC,Generac Holdings,Industrials
 GD,General Dynamics,Industrials
 GE,General Electric,Industrials
 GIS,General Mills,Consumer Staples
@@ -343,6 +344,7 @@ NRG,NRG Energy,Utilities
 NUE,Nucor Corp.,Materials
 NVDA,Nvidia Corporation,Information Technology
 NVR,NVR Inc.,Consumer Discretionary
+NXPI,NXP Semiconductors,Information Technology
 ORLY,O'Reilly Automotive,Consumer Discretionary
 OXY,Occidental Petroleum,Energy
 ODFL,Old Dominion Freight Line,Industrials
@@ -356,6 +358,7 @@ PH,Parker-Hannifin,Industrials
 PAYX,Paychex Inc.,Information Technology
 PAYC,Paycom,Information Technology
 PYPL,PayPal,Information Technology
+PENN,Penn National Gaming,Consumer Discretionary
 PNR,Pentair plc,Industrials
 PBCT,People's United Financial,Financials
 PEP,PepsiCo Inc.,Consumer Staples
@@ -409,7 +412,6 @@ NOW,ServiceNow,Information Technology
 SHW,Sherwin-Williams,Materials
 SPG,Simon Property Group Inc,Real Estate
 SWKS,Skyworks Solutions,Information Technology
-SLG,SL Green Realty,Real Estate
 SNA,Snap-on,Industrials
 SO,Southern Company,Utilities
 LUV,Southwest Airlines,Industrials
@@ -474,7 +476,6 @@ VFC,VF Corporation,Consumer Discretionary
 VIAC,ViacomCBS,Communication Services
 VTRS,Viatris,Health Care
 V,Visa Inc.,Information Technology
-VNT,Vontier,Information Technology
 VNO,Vornado Realty Trust,Real Estate
 VMC,Vulcan Materials,Materials
 WRB,W. R. Berkley Corporation,Financials
@@ -496,7 +497,6 @@ WMB,Williams Companies,Energy
 WLTW,Willis Towers Watson,Financials
 WYNN,Wynn Resorts Ltd,Consumer Discretionary
 XEL,Xcel Energy Inc,Utilities
-XRX,Xerox,Information Technology
 XLNX,Xilinx,Information Technology
 XYL,Xylem Inc.,Industrials
 YUM,Yum! Brands Inc,Consumer Discretionary
