@@ -1,5 +1,6 @@
 Symbol,Name,Sector
 MMM,3M,Industrials
+AOS,A. O. Smith,Industrials
 ABT,Abbott Laboratories,Health Care
 ABBV,AbbVie,Health Care
 ABMD,Abiomed,Health Care
@@ -26,7 +27,7 @@ GOOGL,Alphabet (Class A),Communication Services
 GOOG,Alphabet (Class C),Communication Services
 MO,Altria Group,Consumer Staples
 AMZN,Amazon,Consumer Discretionary
-AMCR,Amco,Materials
+AMCR,Amcor,Materials
 AEE,Ameren Corp,Utilities
 AAL,American Airlines Group,Industrials
 AEP,American Electric Power,Utilities
@@ -42,7 +43,6 @@ APH,Amphenol Corp,Information Technology
 ADI,Analog Devices,Information Technology
 ANSS,Ansys,Information Technology
 ANTM,Anthem,Health Care
-AOS,AO Smith,Industrials
 AON,Aon,Financials
 APA,APA Corporation,Energy
 AAPL,Apple,Information Technology
@@ -77,7 +77,7 @@ BSX,Boston Scientific,Health Care
 BMY,Bristol-Myers Squibb,Health Care
 AVGO,Broadcom,Information Technology
 BR,Broadridge Financial Solutions,Information Technology
-BF.B,Brown-Forman,Consumer Staples
+BF.B,Brown–Forman,Consumer Staples
 CHRW,C. H. Robinson,Industrials
 COG,Cabot Oil & Gas,Energy
 CDNS,Cadence Design Systems,Information Technology
@@ -255,9 +255,9 @@ IVZ,Invesco,Financials
 IPGP,IPG Photonics,Information Technology
 IQV,IQVIA,Health Care
 IRM,Iron Mountain,Real Estate
+JBHT,J. B. Hunt,Industrials
 JKHY,Jack Henry & Associates,Information Technology
 J,Jacobs Engineering Group,Industrials
-JBHT,JB Hunt,Industrials
 SJM,JM Smucker,Consumer Staples
 JNJ,Johnson & Johnson,Health Care
 JCI,Johnson Controls,Industrials
@@ -305,7 +305,7 @@ MKC,McCormick & Company,Consumer Staples
 MCD,McDonald's,Consumer Discretionary
 MCK,McKesson Corporation,Health Care
 MDT,Medtronic,Health Care
-MRK,Merck & Co,Health Care
+MRK,Merck & Co.,Health Care
 MET,MetLife,Financials
 MTD,Mettler Toledo,Health Care
 MGM,MGM Resorts International,Consumer Discretionary
@@ -453,6 +453,7 @@ TFC,Truist Financial,Financials
 TWTR,Twitter,Communication Services
 TYL,Tyler Technologies,Information Technology
 TSN,Tyson Foods,Consumer Staples
+USB,U.S. Bancorp,Financials
 UDR,UDR,Real Estate
 ULTA,Ulta Beauty,Consumer Discretionary
 UAA,Under Armour (Class A),Consumer Discretionary
@@ -464,7 +465,6 @@ URI,United Rentals,Industrials
 UNH,UnitedHealth Group,Health Care
 UHS,Universal Health Services,Health Care
 UNM,Unum Group,Financials
-USB,US Bancorp,Financials
 VLO,Valero Energy,Energy
 VTR,Ventas,Real Estate
 VRSN,Verisign,Information Technology
@@ -478,6 +478,7 @@ V,Visa,Information Technology
 VNO,Vornado Realty Trust,Real Estate
 VMC,Vulcan Materials,Materials
 WRB,W. R. Berkley Corporation,Financials
+GWW,W. W. Grainger,Industrials
 WAB,Wabtec,Industrials
 WBA,Walgreens Boots Alliance,Consumer Staples
 WMT,Walmart,Consumer Staples
@@ -494,7 +495,6 @@ WY,Weyerhaeuser,Real Estate
 WHR,Whirlpool Corporation,Consumer Discretionary
 WMB,Williams Companies,Energy
 WLTW,Willis Towers Watson,Financials
-GWW,WW Grainger,Industrials
 WYNN,Wynn Resorts,Consumer Discretionary
 XEL,Xcel Energy,Utilities
 XLNX,Xilinx,Information Technology
