@@ -60,9 +60,10 @@ AVY,Avery Dennison,Materials
 BKR,Baker Hughes,Energy
 BLL,Ball Corp,Materials
 BAC,Bank of America,Financials
+BBWI,Bath & Body Works Inc.,Consumer Discretionary
 BAX,Baxter International,Health Care
 BDX,Becton Dickinson,Health Care
-BRK-B,Berkshire Hathaway,Financials
+BRK.B,Berkshire Hathaway,Financials
 BBY,Best Buy,Consumer Discretionary
 BIO,Bio-Rad Laboratories,Health Care
 BIIB,Biogen,Health Care
@@ -272,7 +273,6 @@ KMI,Kinder Morgan,Energy
 KLAC,KLA Corporation,Information Technology
 KHC,Kraft Heinz,Consumer Staples
 KR,Kroger,Consumer Staples
-BBWI,L Brands,Consumer Discretionary
 LHX,L3Harris Technologies,Industrials
 LH,LabCorp,Health Care
 LRCX,Lam Research,Information Technology
