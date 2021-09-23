@@ -78,6 +78,7 @@ BSX,Boston Scientific,Health Care
 BMY,Bristol Myers Squibb,Health Care
 AVGO,Broadcom,Information Technology
 BR,Broadridge Financial Solutions,Information Technology
+BRO,Brown & Brown,Financials
 BF.B,Brown–Forman,Consumer Staples
 CHRW,C. H. Robinson,Industrials
 COG,Cabot Oil & Gas,Energy
@@ -97,6 +98,7 @@ CDW,CDW,Information Technology
 CE,Celanese,Materials
 CNC,Centene Corporation,Health Care
 CNP,CenterPoint Energy,Utilities
+CDAY,Ceridian,Information Technology
 CERN,Cerner,Health Care
 CF,CF Industries,Materials
 CRL,Charles River Laboratories,Health Care
@@ -300,6 +302,7 @@ MMC,Marsh & McLennan,Financials
 MLM,Martin Marietta Materials,Materials
 MAS,Masco,Industrials
 MA,Mastercard,Information Technology
+MTCH,Match Group,Communication Services
 MKC,McCormick & Company,Consumer Staples
 MCD,McDonald's,Consumer Discretionary
 MCK,McKesson Corporation,Health Care
@@ -338,7 +341,6 @@ NTRS,Northern Trust,Financials
 NOC,Northrop Grumman,Industrials
 NLOK,NortonLifeLock,Information Technology
 NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary
-NOV,Nov,Energy
 NRG,NRG Energy,Utilities
 NUE,Nucor,Materials
 NVDA,Nvidia,Information Technology
@@ -363,7 +365,6 @@ PNR,Pentair,Industrials
 PBCT,People's United Financial,Financials
 PEP,PepsiCo,Consumer Staples
 PKI,PerkinElmer,Health Care
-PRGO,Perrigo,Health Care
 PFE,Pfizer,Health Care
 PM,Philip Morris International,Consumer Staples
 PSX,Phillips 66,Energy
@@ -464,7 +465,6 @@ UPS,United Parcel Service,Industrials
 URI,United Rentals,Industrials
 UNH,UnitedHealth Group,Health Care
 UHS,Universal Health Services,Health Care
-UNM,Unum Group,Financials
 VLO,Valero Energy,Energy
 VTR,Ventas,Real Estate
 VRSN,Verisign,Information Technology
