@@ -209,7 +209,8 @@ BEN,Franklin Templeton,Financials
 FCX,Freeport-McMoRan,Materials
 GRMN,Garmin,Consumer Discretionary
 IT,Gartner,Information Technology
-GEN,Gen Digital Inc.,Information Technology
+GEHC,GE HealthCare,Health Care
+GEN,Gen Digital,Information Technology
 GNRC,Generac,Industrials
 GD,General Dynamics,Industrials
 GE,General Electric,Industrials
@@ -231,6 +232,7 @@ HES,Hess Corporation,Energy
 HPE,Hewlett Packard Enterprise,Information Technology
 HLT,Hilton Worldwide,Consumer Discretionary
 HOLX,Hologic,Health Care
+HD,Home Depot (The),Consumer Discretionary
 HON,Honeywell,Industrials
 HRL,Hormel Foods,Consumer Staples
 HST,Host Hotels & Resorts,Real Estate
@@ -442,7 +444,6 @@ TXN,Texas Instruments,Information Technology
 TXT,Textron,Industrials
 KO,The Coca-Cola Company,Consumer Staples
 EL,The Estée Lauder Companies,Consumer Staples
-HD,The Home Depot,Consumer Discretionary
 IPG,The Interpublic Group of Companies,Communication Services
 SJM,The J.M. Smucker Company,Consumer Staples
 MOS,The Mosaic Company,Materials
@@ -475,7 +476,6 @@ VFC,VF Corporation,Consumer Discretionary
 VTRS,Viatris,Health Care
 VICI,Vici Properties,Real Estate
 V,Visa Inc.,Information Technology
-VNO,Vornado Realty Trust,Real Estate
 VMC,Vulcan Materials Company,Materials
 GWW,W. W. Grainger,Industrials
 WAB,Wabtec,Industrials
