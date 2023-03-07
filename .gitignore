@@ -1,4 +1,6 @@
 .*.swp
 cache/*
 .idea
-tmp
+tmp/
+scripts/.DS_Store
+.DS_Store
