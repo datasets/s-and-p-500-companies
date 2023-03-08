@@ -1,9 +1,10 @@
 on:
-  schedule:
-    - cron:  '0 1 * * *'
   push:
     branches:
       - master
+  #  2023-03-08 disable cron until working again
+  # schedule:
+  #  - cron:  '0 1 * * *'
 
 jobs:
   update:
