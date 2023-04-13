@@ -1,48 +1,30 @@
 on:
   push:
-    branches:
-      - master
-  #  2023-03-08 disable cron until working again
-  # schedule:
-  #  - cron:  '0 1 * * *'
+    branches: ["master"]
+  pull_request:
+    branches: ["master"]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: Build the data and create local changes
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
-        architecture: x64
-    - name: Install requirements
-      run: |
-        pip install -r scripts/requirements.txt
-    - name: Process Data
-      run: |
-        python scripts/constituents.py
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git diff --quiet && git diff --staged --quiet || git commit -a -m "Auto-update of the data packages"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.gh }}
-  deploy:
-    needs: update
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v1
-    - uses: actions/setup-node@v1
-      with:
-        node-version: '8.x'
-    - run: npm install -g data-cli
-    - run: data --version
-    - run: data push
-      env:
-        id: ${{secrets.dhid}}
-        username: ${{secrets.dhusername}}
-        token: ${{secrets.dhtoken}}
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      - name: Run
+        run: make
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update data"
+            git push
+          fi

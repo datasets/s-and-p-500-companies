@@ -1,1 +1,3 @@
-beautifulsoup4
+pandas
+lxml
+frictionless[parquet,pandas]
