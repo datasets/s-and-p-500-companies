@@ -34,7 +34,6 @@ AIG,American International Group,Financials,Property & Casualty Insurance,"New Y
 AMT,American Tower,Real Estate,Telecom Tower REITs,"Boston, Massachusetts",2007-11-19,1053507,1995
 AWK,American Water Works,Utilities,Water Utilities,"Camden, New Jersey",2016-03-04,1410636,1886
 AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",2005-10-03,820027,1894
-ABC,AmerisourceBergen,Health Care,Health Care Distributors,"Conshohocken, Pennsylvania",2001-08-30,1140859,1985
 AME,Ametek,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",2013-09-23,1037868,1930
 AMGN,Amgen,Health Care,Biotechnology,"Thousand Oaks, California",1992-01-02,318154,1980
 APH,Amphenol,Information Technology,Electronic Components,"Wallingford, Connecticut",2008-09-30,820313,1932
@@ -71,7 +70,7 @@ BIIB,Biogen,Health Care,Biotechnology,"Cambridge, Massachusetts",2003-11-13,8750
 BLK,BlackRock,Financials,Asset Management & Custody Banks,"New York City, New York",2011-04-04,1364742,1988
 BK,BNY Mellon,Financials,Asset Management & Custody Banks,"New York City, New York",1995-03-31,1390777,1784
 BA,Boeing,Industrials,Aerospace & Defense,"Chicago, Illinois",1957-03-04,12927,1916
-BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Restaurants & Leisure","Norwalk, Connecticut",2009-11-06,1075531,1996
+BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Norwalk, Connecticut",2009-11-06,1075531,1996
 BWA,BorgWarner,Consumer Discretionary,Automotive Parts & Equipment,"Auburn Hills, Michigan",2011-12-19,908255,1880
 BXP,Boston Properties,Real Estate,Office REITs,"Boston, Massachusetts",2006-04-03,1037540,1970
 BSX,Boston Scientific,Health Care,Health Care Equipment,"Marlborough, Massachusetts",1995-02-24,885725,1979
@@ -186,7 +185,7 @@ EG,Everest Re,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,1095073,1973
 EVRG,Evergy,Utilities,Electric Utilities,"Kansas City, Missouri",2018-06-05,1711269,1909
 ES,Eversource,Utilities,Multi-Utilities,"Hartford, Connecticut",2009,72741,1966
 EXC,Exelon,Utilities,Multi-Utilities,"Chicago, Illinois",1957-03-04,1109357,2000
-EXPE,Expedia Group,Consumer Discretionary,"Hotels, Restaurants & Leisure","Seattle, Washington",2007-10-02,1324424,1996
+EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Seattle, Washington",2007-10-02,1324424,1996
 EXPD,Expeditors International,Industrials,Air Freight & Logistics,"Seattle, Washington",2007-10-10,746515,1979
 EXR,Extra Space Storage,Real Estate,Self-Storage REITs,"Salt Lake City, Utah",2016-01-19,1289490,1977
 XOM,ExxonMobil,Energy,Integrated Oil & Gas,"Irving, Texas",1957-03-04,34088,1999
