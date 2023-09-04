@@ -52,7 +52,7 @@ T,AT&T,Communication Services,Integrated Telecommunication Services,"Dallas, Tex
 ATO,Atmos Energy,Utilities,Gas Utilities,"Dallas, Texas",2019-02-15,731802,1906
 ADSK,Autodesk,Information Technology,Application Software,"San Francisco, California",1989-12-01,769397,1982
 AZO,AutoZone,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",1997-01-02,866787,1979
-AVB,AvalonBay Communities,Real Estate,Residential REITs,"Arlington, Virginia",2007-01-10,915912,1978
+AVB,AvalonBay Communities,Real Estate,Multi-Family Residential REITs,"Arlington, Virginia",2007-01-10,915912,1978
 AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,"Glendale, California",1987-12-31,8818,1990
 AXON,Axon Enterprise,Industrials,Aerospace & Defense,"Scottsdale, Arizona",2023-05-04,1069183,1993
 BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,"Houston, Texas",2017-07-07,1701605,2017
@@ -83,7 +83,7 @@ BG,Bunge Limited,Consumer Staples,Agricultural Products & Services,"Chesterfield
 CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1043277,1905
 CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",2017-09-18,813672,1988
 CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",2021-03-22,1590895,1973
-CPT,Camden Property Trust,Real Estate,Residential REITs,"Houston, Texas",2022-04-04,906345,1981
+CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,"Houston, Texas",2022-04-04,906345,1981
 CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
 COF,Capital One,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,927628,1994
 CAH,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,721371,1971
@@ -96,6 +96,7 @@ CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,"Chicago, Illinoi
 CBRE,CBRE Group,Real Estate,Real Estate Services,"Dallas, Texas",2006-11-10,1138118,1906
 CDW,CDW,Information Technology,Technology Distributors,"Lincolnshire, Illinois",2019-09-23,1402057,1984
 CE,Celanese,Materials,Specialty Chemicals,"Irving, Texas",2018-12-24,1306830,1918
+COR,Cencora,Health Care,Health Care Distributors,"Conshohocken, Pennsylvania",2001-08-30,1140859,1985
 CNC,Centene Corporation,Health Care,Managed Health Care,"St. Louis, Missouri",2016-03-30,1071739,1984
 CNP,CenterPoint Energy,Utilities,Multi-Utilities,"Houston, Texas",1985-07-31,1130310,1882
 CDAY,Ceridian,Information Technology,Application Software,"Minneapolis, Minnesota",2021-09-20,1725057,1992
@@ -177,8 +178,8 @@ EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,"Newtown
 EQT,EQT,Energy,Oil & Gas Exploration & Production,"Pittsburgh, Pennsylvania",2022-10-03,33213,1888
 EFX,Equifax,Industrials,Research & Consulting Services,"Atlanta, Georgia",1997-06-19,33185,1899
 EQIX,Equinix,Real Estate,Data Center REITs,"Redwood City, California",2015-03-20,1101239,1998
-EQR,Equity Residential,Real Estate,Residential REITs,"Chicago, Illinois",2001-12-03,906107,1969
-ESS,Essex Property Trust,Real Estate,Residential REITs,"San Mateo, California",2014-04-02,920522,1971
+EQR,Equity Residential,Real Estate,Multi-Family Residential REITs,"Chicago, Illinois",2001-12-03,906107,1969
+ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,"San Mateo, California",2014-04-02,920522,1971
 EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,"New York City, New York",2006-01-05,1001250,1946
 ETSY,Etsy,Consumer Discretionary,Broadline Retail,"New York City, New York",2020-09-21,1370637,2005
 EG,Everest Re,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,1095073,1973
@@ -259,7 +260,7 @@ IPG,Interpublic Group of Companies (The),Communication Services,Advertising,"New
 INTU,Intuit,Information Technology,Application Software,"Mountain View, California",2000-12-05,896878,1983
 ISRG,Intuitive Surgical,Health Care,Health Care Equipment,"Sunnyvale, California",2008-06-02,1035267,1995
 IVZ,Invesco,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",2008-08-21,914208,1935
-INVH,Invitation Homes,Real Estate,Residential REITs,"Dallas, Texas",2022-09-19,1687229,2012
+INVH,Invitation Homes,Real Estate,Single-Family Residential REITs,"Dallas, Texas",2022-09-19,1687229,2012
 IQV,IQVIA,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",2017-08-29,1478242,1982
 IRM,Iron Mountain,Real Estate,Other Specialized REITs,"Boston, Massachusetts",2009-01-06,1020569,1951
 JBHT,J.B. Hunt,Industrials,Cargo Ground Transportation,"Lowell, Arkansas",2015-07-01,728535,1961
@@ -317,7 +318,7 @@ MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2017-
 MCHP,Microchip Technology,Information Technology,Semiconductors,"Chandler, Arizona",2007-09-07,827054,1989
 MU,Micron Technology,Information Technology,Semiconductors,"Boise, Idaho",1994-09-27,723125,1978
 MSFT,Microsoft,Information Technology,Systems Software,"Redmond, Washington",1994-06-01,789019,1975
-MAA,Mid-America Apartment Communities,Real Estate,Residential REITs,"Memphis, Tennessee",2016-12-02,912595,1977
+MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs,"Memphis, Tennessee",2016-12-02,912595,1977
 MRNA,Moderna,Health Care,Biotechnology,"Cambridge, Massachusetts",2021-07-21,1682852,2010
 MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings,"Calhoun, Georgia",2013-12-23,851968,1878
 MOH,Molina Healthcare,Health Care,Managed Health Care,"Long Beach, California",2022-03-02,1179929,1980
@@ -457,7 +458,7 @@ TFC,Truist,Financials,Regional Banks,"Charlotte, North Carolina",1997-12-04,9223
 TYL,Tyler Technologies,Information Technology,Application Software,"Plano, Texas",2020-06-22,860731,1966
 TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",2005-08-10,100493,1935
 USB,U.S. Bank,Financials,Diversified Banks,"Minneapolis, Minnesota",,36104,1968
-UDR,"UDR, Inc.",Real Estate,Residential REITs,"Highlands Ranch, Colorado",2016-03-07,74208,1972
+UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,"Highlands Ranch, Colorado",2016-03-07,74208,1972
 ULTA,Ulta Beauty,Consumer Discretionary,Specialty Stores,"Bolingbrook, Illinois",2016-04-18,1403568,1990
 UNP,Union Pacific Corporation,Industrials,Rail Transportation,"Omaha, Nebraska",1957-03-04,100885,1862
 UAL,United Airlines Holdings,Industrials,Passenger Airlines,"Chicago, Illinois",2015-09-03,100517,1967
