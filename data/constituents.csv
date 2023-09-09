@@ -51,7 +51,7 @@ AIZ,Assurant,Financials,Multi-line Insurance,"New York City, New York",2007-04-1
 T,AT&T,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983-11-30,732717,1983 (1885)
 ATO,Atmos Energy,Utilities,Gas Utilities,"Dallas, Texas",2019-02-15,731802,1906
 ADSK,Autodesk,Information Technology,Application Software,"San Francisco, California",1989-12-01,769397,1982
-AZO,AutoZone,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",1997-01-02,866787,1979
+AZO,AutoZone,Consumer Discretionary,Automotive Retail,"Memphis, Tennessee",1997-01-02,866787,1979
 AVB,AvalonBay Communities,Real Estate,Multi-Family Residential REITs,"Arlington, Virginia",2007-01-10,915912,1978
 AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,"Glendale, California",1987-12-31,8818,1990
 AXON,Axon Enterprise,Industrials,Aerospace & Defense,"Scottsdale, Arizona",2023-05-04,1069183,1993
@@ -219,7 +219,7 @@ GD,General Dynamics,Industrials,Aerospace & Defense,"Falls Church, Virginia",195
 GE,General Electric,Industrials,Industrial Conglomerates,"Boston, Massachusetts",1957-03-04,40545,1892
 GIS,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1957-03-04,40704,1856
 GM,General Motors,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,1467858,1908
-GPC,Genuine Parts Company,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",1973-12-31,40987,1925
+GPC,Genuine Parts Company,Consumer Discretionary,Automotive Parts & Equipment,"Atlanta, Georgia",1973-12-31,40987,1925
 GILD,Gilead Sciences,Health Care,Biotechnology,"Foster City, California",2004-07-01,882095,1987
 GL,Globe Life,Financials,Life & Health Insurance,"McKinney, Texas",1989-04-30,320335,1900
 GPN,Global Payments,Financials,Transaction & Payment Processing Services,"Atlanta, Georgia",2016-04-25,1123360,2000
@@ -351,7 +351,7 @@ NUE,Nucor,Materials,Steel,"Charlotte, North Carolina",1985-04-30,73309,1940
 NVDA,Nvidia,Information Technology,Semiconductors,"Santa Clara, California",2001-11-30,1045810,1993
 NVR,"NVR, Inc.",Consumer Discretionary,Homebuilding,"Reston, Virginia",2019-09-26,906163,1980
 NXPI,NXP Semiconductors,Information Technology,Semiconductors,"Eindhoven, Netherlands",2021-03-22,1413447,1953
-ORLY,O'Reilly Auto Parts,Consumer Discretionary,Specialty Stores,"Springfield, Missouri",2009-03-27,898173,1957
+ORLY,O'Reilly Auto Parts,Consumer Discretionary,Automotive Retail,"Springfield, Missouri",2009-03-27,898173,1957
 OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,797468,1920
 ODFL,Old Dominion,Industrials,Cargo Ground Transportation,"Thomasville, North Carolina",2019-12-09,878927,1934
 OMC,Omnicom Group,Communication Services,Advertising,"New York City, New York",1997-12-31,29989,1986
