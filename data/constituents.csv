@@ -63,7 +63,7 @@ BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Specialty Stores,"Columbus
 BAX,Baxter International,Health Care,Health Care Equipment,"Deerfield, Illinois",1972-09-30,10456,1931
 BDX,Becton Dickinson,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",1972-09-30,10795,1897
 WRB,Berkley,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",2019-12-05,11544,1967
-BRK.B,Berkshire Hathaway,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,1067983,1839
+BRK-B,Berkshire Hathaway,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,1067983,1839
 BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",1999-06-29,764478,1966
 BIO,Bio-Rad,Health Care,Life Sciences Tools & Services,"Hercules, California",2020-06-22,12208,1952
 TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,"Minneapolis, Minnesota",2021-08-30,842023,1976
@@ -80,7 +80,7 @@ BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,"New York City, New York",1
 AVGO,Broadcom Inc.,Information Technology,Semiconductors,"San Jose, California",2014-05-08,1730168,1961
 BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,1383312,1962
 BRO,Brown & Brown,Financials,Insurance Brokers,"Daytona Beach, Florida",2021-09-20,79282,1939
-BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,14693,1870
+BF-B,Brown–Forman,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,14693,1870
 BG,Bunge Limited,Consumer Staples,Agricultural Products & Services,"Chesterfield, Missouri",2023-03-15,1144519,1818
 CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1043277,1905
 CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",2017-09-18,813672,1988
