@@ -18,9 +18,9 @@ ALK,Alaska Air Group,Industrials,Passenger Airlines,"SeaTac, Washington",2016-05
 ALB,Albemarle Corporation,Materials,Specialty Chemicals,"Charlotte, North Carolina",2016-07-01,915913,1994
 ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,"Pasadena, California",2017-03-20,1035443,1994
 ALGN,Align Technology,Health Care,Health Care Supplies,"Tempe, Arizona",2017-06-19,1097149,1997
-ALLE,Allegion,Industrials,Building Products,"New York City, New York",2013-12-02,1579241,1908
+ALLE,Allegion,Industrials,Building Products,"Dublin, Ireland",2013-12-02,1579241,1908
 LNT,Alliant Energy,Utilities,Electric Utilities,"Madison, Wisconsin",2016-07-01,352541,1917
-ALL,Allstate,Financials,Property & Casualty Insurance,"Glenview, Illinois",1995-07-13,899051,1931
+ALL,Allstate,Financials,Property & Casualty Insurance,"Northbrook, Illinois",1995-07-13,899051,1931
 GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,"Mountain View, California",2014-04-03,1652044,1998
 GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,"Mountain View, California",2006-04-03,1652044,1998
 MO,Altria,Consumer Staples,Tobacco,"Richmond, Virginia",1957-03-04,764180,1985
@@ -48,13 +48,13 @@ APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,"Dublin, Ireland"
 ACGL,Arch Capital Group,Financials,Reinsurance,"Hamilton, Bermuda",2022-11-01,947484,1995
 ANET,Arista Networks,Information Technology,Communications Equipment,"Santa Clara, California",2018-08-28,1596532,2004
 AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,"Rolling Meadows, Illinois",2016-05-31,354190,1927
-AIZ,Assurant,Financials,Multi-line Insurance,"New York City, New York",2007-04-10,1267238,1892
+AIZ,Assurant,Financials,Multi-line Insurance,"Atlanta, Georgia",2007-04-10,1267238,1892
 T,AT&T,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983-11-30,732717,1983 (1885)
 ATO,Atmos Energy,Utilities,Gas Utilities,"Dallas, Texas",2019-02-15,731802,1906
 ADSK,Autodesk,Information Technology,Application Software,"San Francisco, California",1989-12-01,769397,1982
 AZO,AutoZone,Consumer Discretionary,Automotive Retail,"Memphis, Tennessee",1997-01-02,866787,1979
 AVB,AvalonBay Communities,Real Estate,Multi-Family Residential REITs,"Arlington, Virginia",2007-01-10,915912,1978
-AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,"Glendale, California",1987-12-31,8818,1990
+AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,"Mentor, Ohio",1987-12-31,8818,1990
 AXON,Axon Enterprise,Industrials,Aerospace & Defense,"Scottsdale, Arizona",2023-05-04,1069183,1993
 BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,"Houston, Texas",2017-07-07,1701605,2017
 BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers","Broomfield, Colorado",1984-10-31,9389,1880
@@ -162,7 +162,6 @@ DOW,Dow Inc.,Materials,Commodity Chemicals,"Midland, Michigan",2019-04-01,175178
 DTE,DTE Energy,Utilities,Multi-Utilities,"Detroit, Michigan",1957-03-04,936340,1995
 DUK,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",1976-06-30,1326160,1904
 DD,DuPont,Materials,Specialty Chemicals,"Wilmington, Delaware",2019-04-02,1666700,2017
-DXC,DXC Technology,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",2017-04-04,1688568,2017
 EMN,Eastman Chemical Company,Materials,Diversified Chemicals,"Kingsport, Tennessee",1994-01-01,915389,1920
 ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,"Dublin, Ireland",1957-03-04,1551182,1911
 EBAY,eBay,Consumer Discretionary,Broadline Retail,"San Jose, California",2002-07-22,1065088,1995
@@ -468,6 +467,7 @@ UNH,UnitedHealth Group,Health Care,Managed Health Care,"Minnetonka, Minnesota",1
 UHS,Universal Health Services,Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",2014-09-20,352915,1979
 VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",2002-12-20,1035002,1980
 VTR,Ventas,Real Estate,Health Care REITs,"Chicago, Illinois",2009-03-04,740260,1998
+VLTO,Veralto,Industrials,,"Waltham, Massachusetts",2023-10-02,1967680,2023
 VRSN,Verisign,Information Technology,Internet Services & Infrastructure,"Dulles, Virginia",2006-02-01,1014473,1995
 VRSK,Verisk,Industrials,Research & Consulting Services,"Jersey City, New Jersey",2015-10-08,1442145,1971
 VZ,Verizon,Communication Services,Integrated Telecommunication Services,"New York City, New York",1983-11-30,732712,1983 (1877)
