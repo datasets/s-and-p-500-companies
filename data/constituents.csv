@@ -154,7 +154,7 @@ DFS,Discover Financial,Financials,Consumer Finance,"Riverwoods, Illinois",2007-0
 DIS,Disney,Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,1744489,1923
 DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,"Goodlettsville, Tennessee",2012-12-03,29534,1939
 DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,"Chesapeake, Virginia",2011-12-19,935703,1986
-D,Dominion Energy,Utilities,Electric Utilities,"Richmond, Virginia",,715957,1983
+D,Dominion Energy,Utilities,Electric Utilities,"Richmond, Virginia",2016-11-30,715957,1983
 DPZ,Domino's,Consumer Discretionary,Restaurants,"Ann Arbor, Michigan",2020-05-12,1286681,1960
 DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components,"Downers Grove, Illinois",1985-10-31,29905,1955
 DOW,Dow Inc.,Materials,Commodity Chemicals,"Midland, Michigan",2019-04-01,1751788,2019 (1897)
@@ -184,7 +184,7 @@ EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,"New Yo
 ETSY,Etsy,Consumer Discretionary,Broadline Retail,"New York City, New York",2020-09-21,1370637,2005
 EG,Everest Re,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,1095073,1973
 EVRG,Evergy,Utilities,Electric Utilities,"Kansas City, Missouri",2018-06-05,1711269,1909
-ES,Eversource,Utilities,Multi-Utilities,"Hartford, Connecticut",2009,72741,1966
+ES,Eversource,Utilities,Multi-Utilities,"Hartford, Connecticut",2009-07-24,72741,1966
 EXC,Exelon,Utilities,Multi-Utilities,"Chicago, Illinois",1957-03-04,1109357,2000
 EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Seattle, Washington",2007-10-02,1324424,1996
 EXPD,Expeditors International,Industrials,Air Freight & Logistics,"Seattle, Washington",2007-10-10,746515,1979
@@ -209,7 +209,7 @@ FTV,Fortive,Industrials,Industrial Machinery & Supplies & Components,"Everett, W
 FOXA,Fox Corporation (Class A),Communication Services,Movies & Entertainment,"New York City, New York",2013-07-01,1754301,2019
 FOX,Fox Corporation (Class B),Communication Services,Movies & Entertainment,"New York City, New York",2015-09-18,1754301,2019
 BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,"San Mateo, California",1998-04-30,38777,1947
-FCX,Freeport-McMoRan,Materials,Copper,"Phoenix, Arizona",,831259,1912
+FCX,Freeport-McMoRan,Materials,Copper,"Phoenix, Arizona",2011-07-01,831259,1912
 GRMN,Garmin,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",2012-12-12,1121788,1989
 IT,Gartner,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",2017-04-05,749251,1979
 GEHC,GE HealthCare,Health Care,Health Care Technology,"Chicago, Illinois",2023-01-04,1932393,1994
@@ -242,7 +242,7 @@ HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",
 HWM,Howmet Aerospace,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",1957-03-04,4281,2016
 HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",1974-12-31,47217,1939 (2015)
 HUBB,Hubbell Incorporated,Industrials,Industrial Machinery,"Shelton, Connecticut",2023-10-18,48898,1888
-HUM,Humana,Health Care,Managed Health Care,"Louisville, Kentucky",,49071,1961
+HUM,Humana,Health Care,Managed Health Care,"Louisville, Kentucky",2012-12-10,49071,1961
 HBAN,Huntington Bancshares,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",1997-08-28,49196,1866
 HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,"Newport News, Virginia",2018-01-03,1501585,2011
 IBM,IBM,Information Technology,IT Consulting & Other Services,"Armonk, New York",1957-03-04,51143,1911
@@ -403,7 +403,7 @@ RSG,Republic Services,Industrials,Environmental & Facilities Services,"Phoenix, 
 RMD,ResMed,Health Care,Health Care Equipment,"San Diego, California",2017-07-26,943819,1989
 RVTY,Revvity,Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,31791,1937
 RHI,Robert Half,Industrials,Human Resource & Employment Services,"Menlo Park, California",2000-12-05,315213,1948
-ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",,1024478,1903
+ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",2000-03-12,1024478,1903
 ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,"Atlanta, Georgia",2018-10-01,84839,1948
 ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,"Sarasota, Florida",2009-12-23,882835,1981
 ROST,Ross Stores,Consumer Discretionary,Apparel Retail,"Dublin, California",2009-12-21,745732,1982
@@ -414,7 +414,7 @@ SBAC,SBA Communications,Real Estate,Telecom Tower REITs,"Boca Raton, Florida",20
 SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1957-03-04,87347,1926
 STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",2012-07-02,1137789,1979
 SEE,Sealed Air,Materials,Paper & Plastic Packaging Products & Materials,"Charlotte, North Carolina",1957-03-04,1012100,1960
-SRE,Sempra Energy,Utilities,Multi-Utilities,"San Diego, California",2001?,1032208,1998
+SRE,Sempra Energy,Utilities,Multi-Utilities,"San Diego, California",2017-03-17,1032208,1998
 NOW,ServiceNow,Information Technology,Systems Software,"Santa Clara, California",2019-11-21,1373715,2003
 SHW,Sherwin-Williams,Materials,Specialty Chemicals,"Cleveland, Ohio",1964-06-30,89800,1866
 SPG,Simon Property Group,Real Estate,Retail REITs,"Indianapolis, Indiana",2002-06-26,1063761,2003
@@ -434,7 +434,7 @@ SYF,Synchrony Financial,Financials,Consumer Finance,"Stamford, Connecticut",2015
 SNPS,Synopsys,Information Technology,Application Software,"Sunnyvale, California",2017-03-16,883241,1986
 SYY,Sysco,Consumer Staples,Food Distributors,"Houston, Texas",1986-12-31,96021,1969
 TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,"Bellevue, Washington",2019-07-15,1283699,1994
-TROW,T. Rowe Price,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",,1113169,1937
+TROW,T. Rowe Price,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",2019-07-29,1113169,1937
 TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,"New York City, New York",2018-03-19,946581,1993
 TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2004-09-01,1116132,2017
 TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",2022-10-12,1389170,2005
@@ -444,7 +444,7 @@ TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instrume
 TFX,Teleflex,Health Care,Health Care Equipment,"Wayne, Pennsylvania",2019-01-18,96943,1943
 TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,"North Reading, Massachusetts",2020-09-21,97210,1960
 TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,"Austin, Texas",2020-12-21,1318605,2003
-TXN,Texas Instruments,Information Technology,Semiconductors,"Dallas, Texas",,97476,1930
+TXN,Texas Instruments,Information Technology,Semiconductors,"Dallas, Texas",2001-03-12,97476,1930
 TXT,Textron,Industrials,Aerospace & Defense,"Providence, Rhode Island",1978-12-31,217346,1923
 TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",2004-08-03,97745,2006 (1902)
 TJX,TJX Companies,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",1985-09-30,109198,1987
@@ -456,7 +456,7 @@ TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,"Wes
 TFC,Truist,Financials,Regional Banks,"Charlotte, North Carolina",1997-12-04,92230,1872
 TYL,Tyler Technologies,Information Technology,Application Software,"Plano, Texas",2020-06-22,860731,1966
 TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",2005-08-10,100493,1935
-USB,U.S. Bank,Financials,Diversified Banks,"Minneapolis, Minnesota",,36104,1968
+USB,U.S. Bank,Financials,Diversified Banks,"Minneapolis, Minnesota",1999-11-01,36104,1968
 UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,"Highlands Ranch, Colorado",2016-03-07,74208,1972
 ULTA,Ulta Beauty,Consumer Discretionary,Specialty Stores,"Bolingbrook, Illinois",2016-04-18,1403568,1990
 UNP,Union Pacific Corporation,Industrials,Rail Transportation,"Omaha, Nebraska",1957-03-04,100885,1862
@@ -481,7 +481,7 @@ WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,"
 WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,"Deerfield, Illinois",1979-12-31,1618921,2014
 WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,"Bentonville, Arkansas",1982-08-31,104169,1962
 WBD,Warner Bros. Discovery,Communication Services,Broadcasting,"New York City, New York",2022-04-11,1437107,2022 (Warner Bros. 1923)
-WM,Waste Management,Industrials,Environmental & Facilities Services,"Houston, Texas",,823768,1968
+WM,Waste Management,Industrials,Environmental & Facilities Services,"Houston, Texas",1998-08-31,823768,1968
 WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,"Milford, Massachusetts",2002-01-02,1000697,1958
 WEC,WEC Energy Group,Utilities,Electric Utilities,"Milwaukee, Wisconsin",2008-10-31,783325,1896
 WFC,Wells Fargo,Financials,Diversified Banks,"San Francisco, California",1976-06-30,72971,1852
@@ -489,8 +489,8 @@ WELL,Welltower,Real Estate,Health Care REITs,"Toledo, Ohio",2009-01-30,766704,19
 WST,West Pharmaceutical Services,Health Care,Health Care Supplies,"Exton, Pennsylvania",2020-05-22,105770,1923
 WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",2009-07-01,106040,1970
 WRK,WestRock,Materials,Paper & Plastic Packaging Products & Materials,"Atlanta, Georgia",1957-03-04,1732845,2015
-WY,Weyerhaeuser,Real Estate,Timber REITs,"Seattle, Washington",,106535,1900
-WHR,Whirlpool Corporation,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,106640,1911
+WY,Weyerhaeuser,Real Estate,Timber REITs,"Seattle, Washington",1979-10-01,106535,1900
+WHR,Whirlpool Corporation,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",1958-03-31,106640,1911
 WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1975-03-31,107263,1908
 WTW,Willis Towers Watson,Financials,Insurance Brokers,"London, United Kingdom",2016-01-05,1140536,2016
 GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",1981-06-30,277135,1927
