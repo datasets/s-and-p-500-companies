@@ -12,7 +12,6 @@ A,Agilent Technologies,Health Care,Life Sciences Tools & Services,"Santa Clara, 
 APD,Air Products and Chemicals,Materials,Industrial Gases,"Allentown, Pennsylvania",1985-04-30,2969,1940
 ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","San Francisco, California",2023-09-18,1559720,2008
 AKAM,Akamai,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",2007-07-12,1086222,1998
-ALK,Alaska Air Group,Industrials,Passenger Airlines,"SeaTac, Washington",2016-05-13,766421,1985
 ALB,Albemarle Corporation,Materials,Specialty Chemicals,"Charlotte, North Carolina",2016-07-01,915913,1994
 ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,"Pasadena, California",2017-03-20,1035443,1994
 ALGN,Align Technology,Health Care,Health Care Supplies,"Tempe, Arizona",2017-06-19,1097149,1997
@@ -79,6 +78,7 @@ AVGO,Broadcom Inc.,Information Technology,Semiconductors,"Palo Alto, California"
 BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,1383312,1962
 BRO,Brown & Brown,Financials,Insurance Brokers,"Daytona Beach, Florida",2021-09-20,79282,1939
 BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,14693,1870
+BLDR,Builders FirstSource,Industrials,Building Products,"Irving, Texas",2023-12-18,1316835,1998
 BG,Bunge Global SA,Consumer Staples,Agricultural Products & Services,"Chesterfield, Missouri",2023-03-15,1996862,1818
 CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",2017-09-18,813672,1988
 CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",2021-03-22,1590895,1973
@@ -263,6 +263,7 @@ INVH,Invitation Homes,Real Estate,Single-Family Residential REITs,"Dallas, Texas
 IQV,IQVIA,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",2017-08-29,1478242,1982
 IRM,Iron Mountain,Real Estate,Other Specialized REITs,"Boston, Massachusetts",2009-01-06,1020569,1951
 JBHT,J.B. Hunt,Industrials,Cargo Ground Transportation,"Lowell, Arkansas",2015-07-01,728535,1961
+JBL,Jabil,Information Technology,Electronic Manufacturing Services,"St. Petersburg, Florida",2023-12-18,898293,1966
 JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,"Monett, Missouri",2018-11-13,779152,1976
 J,Jacobs Solutions,Industrials,Construction & Engineering,"Dallas, Texas",2007-10-26,52988,1947
 JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1973-06-30,200406,1886
@@ -411,7 +412,6 @@ CRM,Salesforce,Information Technology,Application Software,"San Francisco, Calif
 SBAC,SBA Communications,Real Estate,Telecom Tower REITs,"Boca Raton, Florida",2017-09-01,1034054,1989
 SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1957-03-04,87347,1926
 STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",2012-07-02,1137789,1979
-SEE,Sealed Air,Materials,Paper & Plastic Packaging Products & Materials,"Charlotte, North Carolina",1957-03-04,1012100,1960
 SRE,Sempra Energy,Utilities,Multi-Utilities,"San Diego, California",2017-03-17,1032208,1998
 NOW,ServiceNow,Information Technology,Systems Software,"Santa Clara, California",2019-11-21,1373715,2003
 SHW,Sherwin-Williams,Materials,Specialty Chemicals,"Cleveland, Ohio",1964-06-30,89800,1866
@@ -419,7 +419,6 @@ SPG,Simon Property Group,Real Estate,Retail REITs,"Indianapolis, Indiana",2002-0
 SWKS,Skyworks Solutions,Information Technology,Semiconductors,"Irvine, California",2015-03-12,4127,2002
 SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",2008-11-06,91419,1897
 SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,"Kenosha, Wisconsin",1982-09-30,91440,1920
-SEDG,SolarEdge,Information Technology,Semiconductor Materials & Equipment,"Herzliya, Israel",2021-12-20,1419612,2006
 SO,Southern Company,Utilities,Electric Utilities,"Atlanta, Georgia",1957-03-04,92122,1945
 LUV,Southwest Airlines,Industrials,Passenger Airlines,"Dallas, Texas",1994-07-01,92380,1967
 SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,"New Britain, Connecticut",1982-09-30,93556,1843
@@ -455,6 +454,7 @@ TFC,Truist,Financials,Regional Banks,"Charlotte, North Carolina",1997-12-04,9223
 TYL,Tyler Technologies,Information Technology,Application Software,"Plano, Texas",2020-06-22,860731,1966
 TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",2005-08-10,100493,1935
 USB,U.S. Bank,Financials,Diversified Banks,"Minneapolis, Minnesota",1999-11-01,36104,1968
+UBER,Uber,Industrials,Passenger Ground Transportation,"San Francisco, California",2023-12-18,1543151,2009
 UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,"Highlands Ranch, Colorado",2016-03-07,74208,1972
 ULTA,Ulta Beauty,Consumer Discretionary,Specialty Stores,"Bolingbrook, Illinois",2016-04-18,1403568,1990
 UNP,Union Pacific Corporation,Industrials,Rail Transportation,"Omaha, Nebraska",1957-03-04,100885,1862
