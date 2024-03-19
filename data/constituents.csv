@@ -141,6 +141,7 @@ DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,"Washington, 
 DRI,Darden Restaurants,Consumer Discretionary,Restaurants,"Orlando, Florida",1995-05-31,940944,1938
 DVA,DaVita Inc.,Health Care,Health Care Services,"Denver, Colorado",2008-07-31,927066,1979
 DAY,Dayforce,Industrials,Human Resource & Employment Services,"Minneapolis, Minnesota",2021-09-20,1725057,1992
+DECK,Deckers Brands,Consumer Discretionary,Footwear,"Goleta, California",2024-03-01,910521,1973
 DE,John Deere,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1957-03-04,315189,1837
 DAL,Delta Air Lines,Industrials,Passenger Airlines,"Atlanta, Georgia",2013-09-11,27904,1929
 XRAY,Dentsply Sirona,Health Care,Health Care Supplies,"Charlotte, North Carolina",2008-11-14,818479,2016 (1969)
@@ -400,7 +401,7 @@ REGN,Regeneron,Health Care,Biotechnology,"Tarrytown, New York",2013-05-01,872589
 RF,Regions Financial Corporation,Financials,Regional Banks,"Birmingham, Alabama",1998-08-28,1281761,1971
 RSG,Republic Services,Industrials,Environmental & Facilities Services,"Phoenix, Arizona",2008-12-05,1060391,1998 (1981)
 RMD,ResMed,Health Care,Health Care Equipment,"San Diego, California",2017-07-26,943819,1989
-RVTY,Revvity (Previously PerkinElmer),Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,31791,1937
+RVTY,Revvity,Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,31791,1937
 RHI,Robert Half,Industrials,Human Resource & Employment Services,"Menlo Park, California",2000-12-05,315213,1948
 ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",2000-03-12,1024478,1903
 ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,"Atlanta, Georgia",2018-10-01,84839,1948
@@ -427,6 +428,7 @@ STT,State Street Corporation,Financials,Asset Management & Custody Banks,"Boston
 STLD,Steel Dynamics,Materials,Steel,"Fort Wayne, Indiana",2022-12-22,1022671,1993
 STE,Steris,Health Care,Health Care Equipment,"Dublin, Ireland",2019-12-23,1757898,1985
 SYK,Stryker Corporation,Health Care,Health Care Equipment,"Kalamazoo, Michigan",2000-12-12,310764,1941
+SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",2024-03-18,1375365,1993
 SYF,Synchrony Financial,Financials,Consumer Finance,"Stamford, Connecticut",2015-11-18,1601712,2003
 SNPS,Synopsys,Information Technology,Application Software,"Sunnyvale, California",2017-03-16,883241,1986
 SYY,Sysco,Consumer Staples,Food Distributors,"Houston, Texas",1986-12-31,96021,1969
@@ -465,7 +467,7 @@ UNH,UnitedHealth Group,Health Care,Managed Health Care,"Minnetonka, Minnesota",1
 UHS,Universal Health Services,Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",2014-09-20,352915,1979
 VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",2002-12-20,1035002,1980
 VTR,Ventas,Real Estate,Health Care REITs,"Chicago, Illinois",2009-03-04,740260,1998
-VLTO,Veralto,Industrials,Environmental & Facilities Services,"Waltham, Massachusetts",2023-10-02,1967680,2023 (Danaher spinoff)
+VLTO,Veralto,Industrials,Environmental & Facilities Services,"Waltham, Massachusetts",2023-10-02,1967680,2023
 VRSN,Verisign,Information Technology,Internet Services & Infrastructure,"Dulles, Virginia",2006-02-01,1014473,1995
 VRSK,Verisk,Industrials,Research & Consulting Services,"Jersey City, New Jersey",2015-10-08,1442145,1971
 VZ,Verizon,Communication Services,Integrated Telecommunication Services,"New York City, New York",1983-11-30,732712,1983 (1877)
@@ -490,7 +492,6 @@ WST,West Pharmaceutical Services,Health Care,Health Care Supplies,"Exton, Pennsy
 WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",2009-07-01,106040,1970
 WRK,WestRock,Materials,Paper & Plastic Packaging Products & Materials,"Atlanta, Georgia",2015-06-25,1732845,2015
 WY,Weyerhaeuser,Real Estate,Timber REITs,"Seattle, Washington",1979-10-01,106535,1900
-WHR,Whirlpool Corporation,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",1958-03-31,106640,1911
 WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1975-03-31,107263,1908
 WTW,Willis Towers Watson,Financials,Insurance Brokers,"London, United Kingdom",2016-01-05,1140536,2016
 GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",1981-06-30,277135,1927
@@ -500,5 +501,4 @@ XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,"White P
 YUM,Yum! Brands,Consumer Discretionary,Restaurants,"Louisville, Kentucky",1997-10-06,1041061,1997
 ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,"Lincolnshire, Illinois",2019-12-23,877212,1969
 ZBH,Zimmer Biomet,Health Care,Health Care Equipment,"Warsaw, Indiana",2001-08-07,1136869,1927
-ZION,Zions Bancorporation,Financials,Regional Banks,"Salt Lake City, Utah",2001-06-22,109380,1873
 ZTS,Zoetis,Health Care,Pharmaceuticals,"Parsippany, New Jersey",2013-06-21,1555280,1952
