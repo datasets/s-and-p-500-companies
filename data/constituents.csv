@@ -12,7 +12,7 @@ A,Agilent Technologies,Health Care,Life Sciences Tools & Services,"Santa Clara, 
 APD,Air Products and Chemicals,Materials,Industrial Gases,"Allentown, Pennsylvania",1985-04-30,2969,1940
 ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","San Francisco, California",2023-09-18,1559720,2008
 AKAM,Akamai,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",2007-07-12,1086222,1998
-ALB,Albemarle Corporation,Materials,Specialty Chemicals,"Charlotte, North Carolina",2016-07-01,915913,1994
+ALB,Albemarle Corporation,Materials,Specialty Bust Chemicals,"Charlotte, North Carolina",2016-07-01,915913,1994
 ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,"Pasadena, California",2017-03-20,1035443,1994
 ALGN,Align Technology,Health Care,Health Care Supplies,"Tempe, Arizona",2017-06-19,1097149,1997
 ALLE,Allegion,Industrials,Building Products,"Dublin, Ireland",2013-12-02,1579241,1908
@@ -129,6 +129,7 @@ CEG,Constellation Energy,Utilities,Electric Utilities,"Baltimore, Maryland",2022
 COO,CooperCompanies,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,711404,1958
 CPRT,Copart,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,900075,1982
 GLW,Corning Inc.,Information Technology,Electronic Components,"Corning, New York",1995-02-27,24741,1851
+CPAY,Corpay,Financials,Transaction & Payment Processing Services,"Atlanta, Georgia",2018-06-20,1175454,2000
 CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,"Indianapolis, Indiana",2019-06-03,1755672,2019
 CSGP,CoStar Group,Real Estate,Real Estate Services,"Washington, D.C.",2022-09-19,1057352,1987
 COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,"Issaquah, Washington",1993-10-01,909832,1976
