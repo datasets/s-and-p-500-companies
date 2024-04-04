@@ -145,7 +145,6 @@ DAY,Dayforce,Industrials,Human Resource & Employment Services,"Minneapolis, Minn
 DECK,Deckers Brands,Consumer Discretionary,Footwear,"Goleta, California",2024-03-01,910521,1973
 DE,John Deere,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1957-03-04,315189,1837
 DAL,Delta Air Lines,Industrials,Passenger Airlines,"Atlanta, Georgia",2013-09-11,27904,1929
-XRAY,Dentsply Sirona,Health Care,Health Care Supplies,"Charlotte, North Carolina",2008-11-14,818479,2016 (1969)
 DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",2000-08-30,1090012,1971
 DXCM,Dexcom,Health Care,Health Care Equipment,"San Diego, California",2020-05-12,1093557,1999
 FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,"Midland, Texas",2018-12-03,1539838,2007
@@ -211,11 +210,12 @@ BEN,Franklin Templeton,Financials,Asset Management & Custody Banks,"San Mateo, C
 FCX,Freeport-McMoRan,Materials,Copper,"Phoenix, Arizona",2011-07-01,831259,1912
 GRMN,Garmin,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",2012-12-12,1121788,1989
 IT,Gartner,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",2017-04-05,749251,1979
+GE,GE Aerospace,Industrials,Aerospace & Defense,"Evendale, Ohio",1957-03-04,40545,1892
 GEHC,GE HealthCare,Health Care,Health Care Equipment,"Chicago, Illinois",2023-01-04,1932393,1994
+GEV,GE Vernova,Utilities,Renewable Electricity,"Cambridge, Massachusetts",2024-04-02,1996810,2024
 GEN,Gen Digital,Information Technology,Systems Software,"Tempe, Arizona",2003-03-25,849399,1982
 GNRC,Generac,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",2021-03-22,1474735,1959
 GD,General Dynamics,Industrials,Aerospace & Defense,"Falls Church, Virginia",1957-03-04,40533,1899
-GE,General Electric,Industrials,Industrial Conglomerates,"Boston, Massachusetts",1957-03-04,40545,1892
 GIS,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1957-03-04,40704,1856
 GM,General Motors,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,1467858,1908
 GPC,Genuine Parts Company,Consumer Discretionary,Distributors,"Atlanta, Georgia",1973-12-31,40987,1925
@@ -420,7 +420,7 @@ SPG,Simon Property Group,Real Estate,Retail REITs,"Indianapolis, Indiana",2002-0
 SWKS,Skyworks Solutions,Information Technology,Semiconductors,"Irvine, California",2015-03-12,4127,2002
 SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",2008-11-06,91419,1897
 SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,"Kenosha, Wisconsin",1982-09-30,91440,1920
-SOLV,Solventum,Health Care,Health Care Equipment,"Saint Paul, Minnesota",2024-04-01,1964738,2023
+SOLV,Solventum,Health Care,Health Care Technology,"Saint Paul, Minnesota",2024-04-01,1964738,2023
 SO,Southern Company,Utilities,Electric Utilities,"Atlanta, Georgia",1957-03-04,92122,1945
 LUV,Southwest Airlines,Industrials,Passenger Airlines,"Dallas, Texas",1994-07-01,92380,1967
 SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,"New Britain, Connecticut",1982-09-30,93556,1843
@@ -473,7 +473,6 @@ VRSN,Verisign,Information Technology,Internet Services & Infrastructure,"Dulles,
 VRSK,Verisk,Industrials,Research & Consulting Services,"Jersey City, New Jersey",2015-10-08,1442145,1971
 VZ,Verizon,Communication Services,Integrated Telecommunication Services,"New York City, New York",1983-11-30,732712,1983 (1877)
 VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,"Cambridge, Massachusetts",2013-09-23,875320,1989
-VFC,VF Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Denver, Colorado",1979-06-30,103379,1899
 VTRS,Viatris,Health Care,Pharmaceuticals,"Pittsburgh, Pennsylvania",2004-04-23,1792044,1961
 VICI,Vici Properties,Real Estate,Hotel & Resort REITs,"New York City, New York",2022-06-08,1705696,2017
 V,Visa Inc.,Financials,Transaction & Payment Processing Services,"San Francisco, California",2009-12-21,1403161,1958
