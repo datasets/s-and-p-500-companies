@@ -475,12 +475,14 @@ VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,"Cambridge, Massachusetts"
 VTRS,Viatris,Health Care,Pharmaceuticals,"Pittsburgh, Pennsylvania",2004-04-23,1792044,1961
 VICI,Vici Properties,Real Estate,Hotel & Resort REITs,"New York City, New York",2022-06-08,1705696,2017
 V,Visa Inc.,Financials,Transaction & Payment Processing Services,"San Francisco, California",2009-12-21,1403161,1958
+VST,Vistra,Utilities,Electric Utilities,"Irving, Texas",2024-05-08,1692819,2016
 VMC,Vulcan Materials Company,Materials,Construction Materials,"Birmingham, Alabama",1999-06-30,1396009,1909
-WRB,Berkley,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",2019-12-05,11544,1967
+WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",2019-12-05,11544,1967
+GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",1981-06-30,277135,1927
 WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,"Pittsburgh, Pennsylvania",2019-02-27,943452,1999 (1869)
 WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,"Deerfield, Illinois",1979-12-31,1618921,2014
 WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,"Bentonville, Arkansas",1982-08-31,104169,1962
-DIS,Walt Disney,Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,1744489,1923
+DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,1744489,1923
 WBD,Warner Bros. Discovery,Communication Services,Broadcasting,"New York City, New York",2022-04-11,1437107,2022 (Warner Bros. 1923)
 WM,Waste Management,Industrials,Environmental & Facilities Services,"Houston, Texas",1998-08-31,823768,1968
 WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,"Milford, Massachusetts",2002-01-02,1000697,1958
@@ -493,7 +495,6 @@ WRK,WestRock,Materials,Paper & Plastic Packaging Products & Materials,"Atlanta, 
 WY,Weyerhaeuser,Real Estate,Timber REITs,"Seattle, Washington",1979-10-01,106535,1900
 WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1975-03-31,107263,1908
 WTW,Willis Towers Watson,Financials,Insurance Brokers,"London, United Kingdom",2016-01-05,1140536,2016
-GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",1981-06-30,277135,1927
 WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2008-11-14,1174922,2002
 XEL,Xcel Energy,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1957-03-04,72903,1909
 XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,"White Plains, New York",2011-11-01,1524472,2011
