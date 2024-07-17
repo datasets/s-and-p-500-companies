@@ -123,9 +123,9 @@ CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvan
 CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1983-08-31,23217,1919
 COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,1163165,2002
 ED,Consolidated Edison,Utilities,Multi-Utilities,"New York City, New York",1957-03-04,1047862,1823
-STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Victor, New York",2005-07-01,16918,1945
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Rochester, New York",2005-07-01,16918,1945
 CEG,Constellation Energy,Utilities,Electric Utilities,"Baltimore, Maryland",2022-02-02,1868275,1999
-COO,CooperCompanies,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,711404,1958
+COO,Cooper Companies (The),Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,711404,1958
 CPRT,Copart,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,900075,1982
 GLW,Corning Inc.,Information Technology,Electronic Components,"Corning, New York",1995-02-27,24741,1851
 CPAY,Corpay,Financials,Transaction & Payment Processing Services,"Atlanta, Georgia",2018-06-20,1175454,2000
@@ -143,7 +143,7 @@ DRI,Darden Restaurants,Consumer Discretionary,Restaurants,"Orlando, Florida",199
 DVA,DaVita Inc.,Health Care,Health Care Services,"Denver, Colorado",2008-07-31,927066,1979
 DAY,Dayforce,Industrials,Human Resource & Employment Services,"Minneapolis, Minnesota",2021-09-20,1725057,1992
 DECK,Deckers Brands,Consumer Discretionary,Footwear,"Goleta, California",2024-03-18,910521,1973
-DE,John Deere,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1957-03-04,315189,1837
+DE,Deere & Company,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1957-03-04,315189,1837
 DAL,Delta Air Lines,Industrials,Passenger Airlines,"Atlanta, Georgia",2013-09-11,27904,1929
 DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",2000-08-30,1090012,1971
 DXCM,Dexcom,Health Care,Health Care Equipment,"San Diego, California",2020-05-12,1093557,1999
@@ -168,7 +168,6 @@ EIX,Edison International,Utilities,Electric Utilities,"Rosemead, California",195
 EW,Edwards Lifesciences,Health Care,Health Care Equipment,"Irvine, California",2011-04-01,1099800,1958
 EA,Electronic Arts,Communication Services,Interactive Home Entertainment,"Redwood City, California",2002-07-22,712515,1982
 ELV,Elevance Health,Health Care,Managed Health Care,"Indianapolis, Indiana",2002-07-25,1156039,2014 (1946)
-LLY,Eli Lilly and Company,Health Care,Pharmaceuticals,"Indianapolis, Indiana",1970-12-31,59478,1876
 EMR,Emerson Electric,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",1965-03-31,32604,1890
 ENPH,Enphase,Information Technology,Semiconductor Materials & Equipment,"Fremont, California",2021-01-07,1463101,2006
 ETR,Entergy,Utilities,Electric Utilities,"New Orleans, Louisiana",1957-03-04,65984,1913
@@ -290,6 +289,7 @@ LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,"Eagle, Idaho",2018-12-03
 LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",2019-10-03,1300514,1988
 LDOS,Leidos,Industrials,Diversified Support Services,"Reston, Virginia",2019-08-09,1336920,1969
 LEN,Lennar,Consumer Discretionary,Homebuilding,"Miami, Florida",2005-10-04,920760,1954
+LLY,Lilly (Eli),Health Care,Pharmaceuticals,"Indianapolis, Indiana",1970-12-31,59478,1876
 LIN,Linde plc,Materials,Industrial Gases,"Guildford, United Kingdom",1992-07-01,1707925,1879
 LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,"Beverly Hills, California",2019-12-23,1335258,2010
 LKQ,LKQ Corporation,Consumer Discretionary,Distributors,"Chicago, Illinois",2016-05-23,1065696,1998
