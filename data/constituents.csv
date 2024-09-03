@@ -135,7 +135,7 @@ COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,"Issaquah, Wash
 CTRA,Coterra,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2008-06-23,858470,2021 (1989)
 CRWD,CrowdStrike,Information Technology,Systems Software,"Austin, Texas",2024-06-24,1535527,2011
 CCI,Crown Castle,Real Estate,Telecom Tower REITs,"Houston, Texas",2012-03-14,1051470,1994
-CSX,CSX,Industrials,Rail Transportation,"Jacksonville, Florida",1957-03-04,277948,1980
+CSX,CSX Corporation,Industrials,Rail Transportation,"Jacksonville, Florida",1957-03-04,277948,1980
 CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,"Columbus, Indiana",1965-03-31,26172,1919
 CVS,CVS Health,Health Care,Health Care Services,"Woonsocket, Rhode Island",1957-03-04,64803,1996
 DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,"Washington, D.C.",1998-11-18,313616,1969
@@ -227,9 +227,9 @@ HAL,Halliburton,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1957-03-0
 HIG,Hartford (The),Financials,Property & Casualty Insurance,"Hartford, Connecticut",1957-03-04,874766,1810
 HAS,Hasbro,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",1984-09-30,46080,1923
 HCA,HCA Healthcare,Health Care,Health Care Facilities,"Nashville, Tennessee",2015-01-27,860730,1968
-DOC,Healthpeak,Real Estate,Health Care REITs,"Denver, Colorado",2008-03-31,765880,1985
+DOC,Healthpeak Properties,Real Estate,Health Care REITs,"Denver, Colorado",2008-03-31,765880,1985
 HSIC,Henry Schein,Health Care,Health Care Distributors,"Melville, New York",2015-03-17,1000228,1932
-HSY,Hershey's,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1957-03-04,47111,1894
+HSY,Hershey Company (The),Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1957-03-04,47111,1894
 HES,Hess Corporation,Energy,Integrated Oil & Gas,"New York City, New York",1984-05-31,4447,1919
 HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015-11-02,1645590,2015
 HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",2017-06-19,1585689,1919
