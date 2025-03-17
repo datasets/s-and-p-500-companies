@@ -35,7 +35,7 @@ AMGN,Amgen,Health Care,Biotechnology,"Thousand Oaks, California",1992-01-02,3181
 APH,Amphenol,Information Technology,Electronic Components,"Wallingford, Connecticut",2008-09-30,820313,1932
 ADI,Analog Devices,Information Technology,Semiconductors,"Wilmington, Massachusetts",1999-10-12,6281,1965
 ANSS,Ansys,Information Technology,Application Software,"Canonsburg, Pennsylvania",2017-06-19,1013462,1969
-AON,Aon,Financials,Insurance Brokers,"London, UK",1996-04-23,315293,1982 (1919)
+AON,Aon plc,Financials,Insurance Brokers,"London, UK",1996-04-23,315293,1982 (1919)
 APA,APA Corporation,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1997-07-28,1841666,1954
 APO,Apollo Global Management,Financials,Asset Management & Custody Banks,"New York City, New York",2024-12-23,1858681,1990
 AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1982-11-30,320193,1977
@@ -82,7 +82,7 @@ CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota"
 CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",2017-09-18,813672,1988
 CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",2021-03-22,1590895,1973
 CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,"Houston, Texas",2022-04-04,906345,1981
-CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
+CPB,Campbell's Company (The),Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
 COF,Capital One,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,927628,1994
 CAH,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,721371,1971
 KMX,CarMax,Consumer Discretionary,Automotive Retail,"Richmond, Virginia",2010-06-28,1170010,1993
@@ -91,7 +91,7 @@ CARR,Carrier Global,Industrials,Building Products,"Palm Beach Gardens, Florida",
 CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,"Irving, Texas",1957-03-04,18230,1925
 CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,"Chicago, Illinois",2017-03-01,1374310,1973
 CBRE,CBRE Group,Real Estate,Real Estate Services,"Dallas, Texas",2006-11-10,1138118,1906
-CDW,CDW,Information Technology,Technology Distributors,"Vernon Hills, Illinois",2019-09-23,1402057,1984
+CDW,CDW Corporation,Information Technology,Technology Distributors,"Vernon Hills, Illinois",2019-09-23,1402057,1984
 CE,Celanese,Materials,Specialty Chemicals,"Irving, Texas",2018-12-24,1306830,1918
 COR,Cencora,Health Care,Health Care Distributors,"Conshohocken, Pennsylvania",2001-08-30,1140859,1985
 CNC,Centene Corporation,Health Care,Managed Health Care,"St. Louis, Missouri",2016-03-30,1071739,1984
@@ -160,7 +160,7 @@ DUK,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",1976-06
 DD,DuPont,Materials,Specialty Chemicals,"Wilmington, Delaware",2019-04-02,1666700,2017 (1802)
 EMN,Eastman Chemical Company,Materials,Specialty Chemicals,"Kingsport, Tennessee",1994-01-01,915389,1920
 ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,"Dublin, Ireland",1957-03-04,1551182,1911
-EBAY,eBay,Consumer Discretionary,Broadline Retail,"San Jose, California",2002-07-22,1065088,1995
+EBAY,eBay Inc.,Consumer Discretionary,Broadline Retail,"San Jose, California",2002-07-22,1065088,1995
 ECL,Ecolab,Materials,Specialty Chemicals,"Saint Paul, Minnesota",1989-01-31,31462,1923
 EIX,Edison International,Utilities,Electric Utilities,"Rosemead, California",1957-03-04,827052,1886
 EW,Edwards Lifesciences,Health Care,Health Care Equipment,"Irvine, California",2011-04-01,1099800,1958
@@ -276,7 +276,7 @@ KEYS,Keysight Technologies,Information Technology,Electronic Equipment & Instrum
 KMB,Kimberly-Clark,Consumer Staples,Household Products,"Irving, Texas",1957-03-04,55785,1872
 KIM,Kimco Realty,Real Estate,Retail REITs,"Jericho, New York",2006-04-04,879101,1958
 KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",2012-05-25,1506307,1997
-KKR,KKR,Financials,Asset Management & Custody Banks,"New York City, New York",2024-06-24,1404912,1976
+KKR,KKR & Co.,Financials,Asset Management & Custody Banks,"New York City, New York",2024-06-24,1404912,1976
 KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,"Milpitas, California",1997-09-30,319201,1975/1977 (1997)
 KHC,Kraft Heinz,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh, Pennsylvania",2015-07-06,1637459,2015 (1869)
 KR,Kroger,Consumer Staples,Food Retail,"Cincinnati, Ohio",1957-03-04,56873,1883
@@ -330,7 +330,7 @@ MCO,Moody's Corporation,Financials,Financial Exchanges & Data,"New York City, Ne
 MS,Morgan Stanley,Financials,Investment Banking & Brokerage,"New York City, New York",1993-07-29,895421,1935
 MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",2011-09-26,1285785,2004 (1865 / 1909)
 MSI,Motorola Solutions,Information Technology,Communications Equipment,"Chicago, Illinois",1957-03-04,68505,1928 (2011)
-MSCI,MSCI,Financials,Financial Exchanges & Data,"New York City, New York",2018-04-04,1408198,1969
+MSCI,MSCI Inc.,Financials,Financial Exchanges & Data,"New York City, New York",2018-04-04,1408198,1969
 NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,"New York City, New York",2008-10-22,1120193,1971
 NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",1999-06-25,1002047,1992
 NFLX,Netflix,Communication Services,Movies & Entertainment,"Los Gatos, California",2010-12-20,1065280,1997
@@ -350,12 +350,12 @@ NUE,Nucor,Materials,Steel,"Charlotte, North Carolina",1985-04-30,73309,1940
 NVDA,Nvidia,Information Technology,Semiconductors,"Santa Clara, California",2001-11-30,1045810,1993
 NVR,"NVR, Inc.",Consumer Discretionary,Homebuilding,"Reston, Virginia",2019-09-26,906163,1980
 NXPI,NXP Semiconductors,Information Technology,Semiconductors,"Eindhoven, Netherlands",2021-03-22,1413447,1953
-ORLY,O'Reilly Auto Parts,Consumer Discretionary,Automotive Retail,"Springfield, Missouri",2009-03-27,898173,1957
+ORLY,O’Reilly Automotive,Consumer Discretionary,Automotive Retail,"Springfield, Missouri",2009-03-27,898173,1957
 OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,797468,1920
 ODFL,Old Dominion,Industrials,Cargo Ground Transportation,"Thomasville, North Carolina",2019-12-09,878927,1934
 OMC,Omnicom Group,Communication Services,Advertising,"New York City, New York",1997-12-31,29989,1986
 ON,ON Semiconductor,Information Technology,Semiconductors,"Phoenix, Arizona",2022-06-21,1097864,1999
-OKE,ONEOK,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",2010-03-15,1039684,1906
+OKE,Oneok,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",2010-03-15,1039684,1906
 ORCL,Oracle Corporation,Information Technology,Application Software,"Austin, Texas",1989-08-31,1341439,1977
 OTIS,Otis Worldwide,Industrials,Industrial Machinery & Supplies & Components,"Farmington, Connecticut",2020-04-03,1781335,"2020 (1853, United Technologies spinoff)"
 PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,"Bellevue, Washington",1980-12-31,75362,1905
@@ -416,7 +416,7 @@ SHW,Sherwin-Williams,Materials,Specialty Chemicals,"Cleveland, Ohio",1964-06-30,
 SPG,Simon Property Group,Real Estate,Retail REITs,"Indianapolis, Indiana",2002-06-26,1063761,2003
 SWKS,Skyworks Solutions,Information Technology,Semiconductors,"Irvine, California",2015-03-12,4127,2002
 SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",2008-11-06,91419,1897
-SW,Smurfit WestRock,Materials,Paper & Plastic Packaging Products & Materials,"Dublin, Ireland",2024-07-08,2005951,1934
+SW,Smurfit Westrock,Materials,Paper & Plastic Packaging Products & Materials,"Dublin, Ireland",2024-07-08,2005951,1934
 SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,"Kenosha, Wisconsin",1982-09-30,91440,1920
 SOLV,Solventum,Health Care,Health Care Technology,"Saint Paul, Minnesota",2024-04-01,1964738,2023
 SO,Southern Company,Utilities,Electric Utilities,"Atlanta, Georgia",1957-03-04,92122,1945
