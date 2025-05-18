@@ -113,6 +113,7 @@ CME,CME Group,Financials,Financial Exchanges & Data,"Chicago, Illinois",2006-08-
 CMS,CMS Energy,Utilities,Multi-Utilities,"Jackson, Michigan",1957-03-04,811156,1886
 KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Atlanta, Georgia",1957-03-04,21344,1886
 CTSH,Cognizant,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",2006-11-17,1058290,1994
+COIN,Coinbase,Financials,Financial Exchanges & Data,"New York City, New York",2025-05-19,1679788,2012
 CL,Colgate-Palmolive,Consumer Staples,Household Products,"New York City, New York",1957-03-04,21665,1806
 CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",2002-11-19,1166691,1963
 CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1983-08-31,23217,1919
@@ -145,7 +146,6 @@ DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklah
 DXCM,Dexcom,Health Care,Health Care Equipment,"San Diego, California",2020-05-12,1093557,1999
 FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,"Midland, Texas",2018-12-03,1539838,2007
 DLR,Digital Realty,Real Estate,Data Center REITs,"Austin, Texas",2016-05-18,1297996,2004
-DFS,Discover Financial,Financials,Consumer Finance,"Riverwoods, Illinois",2007-07-02,1393612,1985
 DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,"Goodlettsville, Tennessee",2012-12-03,29534,1939
 DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,"Chesapeake, Virginia",2011-12-19,935703,1986
 D,Dominion Energy,Utilities,Multi-Utilities,"Richmond, Virginia",2016-11-30,715957,1983
