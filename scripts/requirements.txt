@@ -1,3 +1,4 @@
 pandas
 lxml
 frictionless[parquet,pandas]
+requests
