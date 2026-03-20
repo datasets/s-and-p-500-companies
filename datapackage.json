@@ -1,0 +1,67 @@
+{
+  "name": "s-and-p-500-companies",
+  "title": "S&P 500 Companies",
+  "collection": "reference-data",
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
+  "views": [
+    {
+      "name": "sector-composition",
+      "title": "S&P 500 Companies by Sector",
+      "description": "Number of companies in the S&P 500 index by GICS sector. Industrials and Financials each have the most constituents (~75–80), while Energy and Communication Services have the fewest. Note that sector weights by market cap differ significantly — Information Technology dominates market cap despite ranking third by count.",
+      "resources": ["sector-counts"],
+      "specType": "plot",
+      "spec": {
+        "height": 380,
+        "marginLeft": 200,
+        "x": { "label": "Number of Companies", "grid": true },
+        "y": { "label": null },
+        "marks": [
+          {
+            "type": "barX",
+            "x": "count", "y": "sector",
+            "fill": "#2563eb", "tip": true,
+            "sort": { "y": "-x" }
+          }
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "name": "sector-counts",
+      "path": "data/sector-counts.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          { "name": "sector", "type": "string" },
+          { "name": "count", "type": "integer", "description": "Number of S&P 500 constituent companies" }
+        ]
+      }
+    },
+    {
+      "name": "constituents",
+      "path": "data/constituents.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          { "name": "Symbol", "type": "string" },
+          { "name": "Security", "type": "string" },
+          { "name": "GICS Sector", "type": "string" },
+          { "name": "GICS Sub-Industry", "type": "string" },
+          { "name": "Headquarters Location", "type": "string" },
+          { "name": "Date added", "type": "string" },
+          { "name": "CIK", "type": "string" },
+          { "name": "Founded", "type": "string" }
+        ]
+      }
+    }
+  ]
+}
