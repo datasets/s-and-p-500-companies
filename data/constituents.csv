@@ -82,7 +82,7 @@ BXP,"BXP, Inc.",Real Estate,Office REITs,"Boston, Massachusetts",2006-04-03,1037
 CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1043277,1905
 CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",2017-09-18,813672,1988
 CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,"Houston, Texas",2022-04-04,906345,1981
-CPB,The Campbell's Company,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
+CPB,Campbell's Company (The),Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
 COF,Capital One,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,927628,1994
 CAH,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,721371,1971
 CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1998-12-22,815097,1972
@@ -113,7 +113,7 @@ CFG,Citizens Financial Group,Financials,Regional Banks,"Providence, Rhode Island
 CLX,Clorox,Consumer Staples,Household Products,"Oakland, California",1969-03-31,21076,1913
 CME,CME Group,Financials,Financial Exchanges & Data,"Chicago, Illinois",2006-08-11,1156375,1848
 CMS,CMS Energy,Utilities,Multi-Utilities,"Jackson, Michigan",1957-03-04,811156,1886
-KO,The Coca-Cola Company,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Atlanta, Georgia",1957-03-04,21344,1886
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Atlanta, Georgia",1957-03-04,21344,1886
 CTSH,Cognizant,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",2006-11-17,1058290,1994
 COHR,Coherent Corp.,Information Technology,Electronic Components,"Saxonburg, Pennsylvania",2026-03-23,820318,1971
 COIN,Coinbase,Financials,Financial Exchanges & Data,"New York City, New York",2025-05-19,1679788,2012
@@ -125,7 +125,7 @@ COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,"Houston, Texas",19
 ED,Consolidated Edison,Utilities,Multi-Utilities,"New York City, New York",1957-03-04,1047862,1823
 STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Rochester, New York",2005-07-01,16918,1945
 CEG,Constellation Energy,Utilities,Electric Utilities,"Baltimore, Maryland",2022-02-02,1868275,1999
-COO,The Cooper Companies,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,711404,1958
+COO,Cooper Companies (The),Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,711404,1958
 CPRT,Copart,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,900075,1982
 GLW,Corning Inc.,Information Technology,Electronic Components,"Corning, New York",1995-02-27,24741,1851
 CPAY,Corpay,Financials,Transaction & Payment Processing Services,"Atlanta, Georgia",2018-06-20,1175454,2000
@@ -181,7 +181,7 @@ EQIX,Equinix,Real Estate,Data Center REITs,"Redwood City, California",2015-03-20
 EQR,Equity Residential,Real Estate,Multi-Family Residential REITs,"Chicago, Illinois",2001-12-03,906107,1969
 ERIE,Erie Indemnity,Financials,Insurance Brokers,"Erie, Pennsylvania",2024-09-23,922621,1925
 ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,"San Mateo, California",2014-04-02,920522,1971
-EL,The Estée Lauder Companies,Consumer Staples,Personal Care Products,"New York City, New York",2006-01-05,1001250,1946
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,"New York City, New York",2006-01-05,1001250,1946
 EG,Everest Group,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,1095073,1973
 EVRG,Evergy,Utilities,Electric Utilities,"Kansas City, Missouri",2018-06-05,1711269,1909
 ES,Eversource Energy,Utilities,Electric Utilities,"Hartford, Connecticut",2009-07-24,72741,1966
@@ -226,16 +226,16 @@ GL,Globe Life,Financials,Life & Health Insurance,"McKinney, Texas",1989-04-30,32
 GDDY,GoDaddy,Information Technology,Internet Services & Infrastructure,"Tempe, Arizona",2024-06-24,1609711,1997
 GS,Goldman Sachs,Financials,Investment Banking & Brokerage,"New York City, New York",2002-07-22,886982,1869
 HAL,Halliburton,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1957-03-04,45012,1919
-HIG,The Hartford,Financials,Property & Casualty Insurance,"Hartford, Connecticut",1957-03-04,874766,1810
+HIG,Hartford (The),Financials,Property & Casualty Insurance,"Hartford, Connecticut",1957-03-04,874766,1810
 HAS,Hasbro,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",1984-09-30,46080,1923
 HCA,HCA Healthcare,Health Care,Health Care Facilities,"Nashville, Tennessee",2015-01-27,860730,1968
 DOC,Healthpeak Properties,Real Estate,Health Care REITs,"Denver, Colorado",2008-03-31,765880,1985
 HSIC,Henry Schein,Health Care,Health Care Distributors,"Melville, New York",2015-03-17,1000228,1932
-HSY,The Hershey Company,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1957-03-04,47111,1894
+HSY,Hershey Company (The),Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1957-03-04,47111,1894
 HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015-11-02,1645590,2015
 HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",2017-06-19,1585689,1919
 HOLX,Hologic,Health Care,Health Care Equipment,"Marlborough, Massachusetts",2016-03-30,859737,1985
-HD,Home Depot,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988-03-31,354950,1978
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988-03-31,354950,1978
 HON,Honeywell,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1957-03-04,773840,1906
 HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",2009-03-04,48465,1891
 HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",2007-03-20,1070750,1993
@@ -324,7 +324,7 @@ MPWR,Monolithic Power Systems,Information Technology,Semiconductors,"Kirkland, W
 MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Corona, California",2012-06-28,865752,2012 (1935)
 MCO,Moody's Corporation,Financials,Financial Exchanges & Data,"New York City, New York",1998-07-01,1059556,1909
 MS,Morgan Stanley,Financials,Investment Banking & Brokerage,"New York City, New York",1993-07-29,895421,1935
-MOS,The Mosaic Company,Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",2011-09-26,1285785,2004 (1865 / 1909)
+MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",2011-09-26,1285785,2004 (1865 / 1909)
 MSI,Motorola Solutions,Information Technology,Communications Equipment,"Chicago, Illinois",1957-03-04,68505,1928 (2011)
 MSCI,MSCI Inc.,Financials,Financial Exchanges & Data,"New York City, New York",2018-04-04,1408198,1969
 NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,"New York City, New York",2008-10-22,1120193,1971
@@ -413,7 +413,7 @@ NOW,ServiceNow,Information Technology,Systems Software,"Santa Clara, California"
 SHW,Sherwin-Williams,Materials,Specialty Chemicals,"Cleveland, Ohio",1964-06-30,89800,1866
 SPG,Simon Property Group,Real Estate,Retail REITs,"Indianapolis, Indiana",2002-06-26,1063761,2003
 SWKS,Skyworks Solutions,Information Technology,Semiconductors,"Irvine, California",2015-03-12,4127,2002
-SJM,The J.M. Smucker Company,Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",2008-11-06,91419,1897
+SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",2008-11-06,91419,1897
 SW,Smurfit Westrock,Materials,Paper & Plastic Packaging Products & Materials,"Dublin, Ireland",2024-07-08,2005951,1934
 SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,"Kenosha, Wisconsin",1982-09-30,91440,1920
 SOLV,Solventum,Health Care,Health Care Technology,"Saint Paul, Minnesota",2024-04-01,1964738,2023
@@ -445,11 +445,11 @@ TXT,Textron,Industrials,Aerospace & Defense,"Providence, Rhode Island",1978-12-3
 TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",2004-08-03,97745,2006 (1902)
 TJX,TJX Companies,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",1985-09-30,109198,1987
 TKO,TKO Group Holdings,Communication Services,Movies & Entertainment,"New York City, New York",2025-03-24,1973266,2023
-TTD,The Trade Desk,Communication Services,Advertising,"Ventura, California",2025-07-18,1671933,2009
+TTD,Trade Desk (The),Communication Services,Advertising,"Ventura, California",2025-07-18,1671933,2009
 TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,"Brentwood, Tennessee",2014-01-24,916365,1938
 TT,Trane Technologies,Industrials,Building Products,"Dublin, Ireland",2010-11-17,1466258,1871
 TDG,TransDigm Group,Industrials,Aerospace & Defense,"Cleveland, Ohio",2016-06-03,1260221,1993
-TRV,The Travelers Companies,Financials,Property & Casualty Insurance,"New York City, New York",2002-08-21,86312,1853
+TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,"New York City, New York",2002-08-21,86312,1853
 TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,"Westminster, Colorado",2021-01-21,864749,1978
 TFC,Truist Financial,Financials,Diversified Banks,"Charlotte, North Carolina",1997-12-04,92230,1872
 TYL,Tyler Technologies,Information Technology,Application Software,"Plano, Texas",2020-06-22,860731,1966
@@ -481,7 +481,7 @@ WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,"Greenwic
 GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",1981-06-30,277135,1927
 WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,"Pittsburgh, Pennsylvania",2019-02-27,943452,1999 (1869)
 WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,"Bentonville, Arkansas",1982-08-31,104169,1962
-DIS,The Walt Disney Company,Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,1744489,1923
+DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,1744489,1923
 WBD,Warner Bros. Discovery,Communication Services,Broadcasting,"New York City, New York",2022-04-11,1437107,2022 (Warner Bros. 1923)
 WM,Waste Management,Industrials,Environmental & Facilities Services,"Houston, Texas",1998-08-31,823768,1968
 WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,"Milford, Massachusetts",2002-01-02,1000697,1958
