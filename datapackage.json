@@ -13,31 +13,20 @@
     {
       "name": "sector-composition",
       "title": "S&P 500 Companies by Sector",
-      "description": "Number of companies in the S&P 500 index by GICS sector. Industrials and Financials each have the most constituents (~75\u201380), while Energy and Communication Services have the fewest. Note that sector weights by market cap differ significantly \u2014 Information Technology dominates market cap despite ranking third by count.",
-      "resources": [
-        "sector-counts"
-      ],
+      "description": "Number of companies in the S&P 500 index by GICS sector. Industrials and Financials each have the most constituents (~75–80), while Energy and Communication Services have the fewest. Note that sector weights by market cap differ significantly — Information Technology dominates market cap despite ranking third by count.",
+      "resources": ["sector-counts"],
       "specType": "plot",
       "spec": {
         "height": 380,
         "marginLeft": 200,
-        "x": {
-          "label": "Number of Companies",
-          "grid": true
-        },
-        "y": {
-          "label": null
-        },
+        "x": { "label": "Number of Companies", "grid": true },
+        "y": { "label": null },
         "marks": [
           {
             "type": "barX",
-            "x": "count",
-            "y": "sector",
-            "fill": "#2563eb",
-            "tip": true,
-            "sort": {
-              "y": "-x"
-            }
+            "x": "count", "y": "sector",
+            "fill": "#2563eb", "tip": true,
+            "sort": { "y": "-x" }
           }
         ]
       }
@@ -46,66 +35,35 @@
   "resources": [
     {
       "name": "sector-counts",
+      "description": "Count of S&P 500 constituent companies grouped by GICS sector.",
       "path": "data/sector-counts.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
         "fields": [
-          {
-            "name": "sector",
-            "type": "string"
-          },
-          {
-            "name": "count",
-            "type": "integer",
-            "description": "Number of S&P 500 constituent companies"
-          }
+          { "name": "sector", "type": "string" },
+          { "name": "count", "type": "integer", "description": "Number of S&P 500 constituent companies" }
         ]
-      },
-      "description": "Aggregated counts of S&P 500 constituent companies grouped by GICS sector."
+      }
     },
     {
       "name": "constituents",
+      "description": "List of all S&P 500 constituent companies with their ticker symbol, GICS sector and sub-industry, headquarters location, date added to the index, CIK, and year founded.",
       "path": "data/constituents.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
         "fields": [
-          {
-            "name": "Symbol",
-            "type": "string"
-          },
-          {
-            "name": "Security",
-            "type": "string"
-          },
-          {
-            "name": "GICS Sector",
-            "type": "string"
-          },
-          {
-            "name": "GICS Sub-Industry",
-            "type": "string"
-          },
-          {
-            "name": "Headquarters Location",
-            "type": "string"
-          },
-          {
-            "name": "Date added",
-            "type": "string"
-          },
-          {
-            "name": "CIK",
-            "type": "string"
-          },
-          {
-            "name": "Founded",
-            "type": "string"
-          }
+          { "name": "Symbol", "type": "string" },
+          { "name": "Security", "type": "string" },
+          { "name": "GICS Sector", "type": "string" },
+          { "name": "GICS Sub-Industry", "type": "string" },
+          { "name": "Headquarters Location", "type": "string" },
+          { "name": "Date added", "type": "string" },
+          { "name": "CIK", "type": "string" },
+          { "name": "Founded", "type": "string" }
         ]
-      },
-      "description": "List of all S&P 500 index constituent companies with their ticker symbol, company name, GICS sector and sub-industry, headquarters location, date added to the index, CIK, and founding year."
+      }
     }
   ]
 }
