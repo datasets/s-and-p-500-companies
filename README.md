@@ -6,7 +6,11 @@ List of companies in the S&P 500 (Standard and Poor's 500). The S&P 500 is a fre
 
 ## Data
 
-Information on S&P 500 index used to be available on the [official webpage on the Standard and Poor's website][sp-home] but until they publish it back, Wikipedia's [SP500 list of companies][sp-list] is the best up-to-date and open data source.
+Information on S&P 500 index used to be available on the [official webpage on the Standard and Poor's website][sp-home] but until they publish it back, Wikipedia's [List of S&P 500 companies][sp-list] is the best up-to-date and open data source.
+
+The `Founded` field contains mixed-format values for some companies — e.g. `2013 (1888)` — where the first year is the current legal entity's founding date and the parenthetical year is the predecessor organisation's founding date.
+
+[sp-list]: https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 
 ## Sources
 
@@ -15,9 +19,7 @@ Detailed information on the S&P 500 (primarily in XLS format) used to be obtaine
 [sp-home]: http://www.spindices.com/indices/equity/sp-500
 
 > **Note**
-> For aggregate information on the S&P (dividends, earnings, etc.) see [Standard and Poor's 500 Dataset][shiller].
-
-[shiller]: http://data.okfn.org/data/s-and-p-500
+> For aggregate information on the S&P (dividends, earnings, etc.) see [Standard and Poor's 500 Dataset on GitHub](https://github.com/datasets/s-and-p-500).
 
 ## General Financial Notes
 

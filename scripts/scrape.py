@@ -16,5 +16,15 @@ response.raise_for_status()
 
 df = pd.read_html(StringIO(response.text), header=0)[0]
 
-# Write to CSV
+# Write constituents
 df.to_csv("data/constituents.csv", index=False)
+
+# Derive sector counts
+sector_counts = (
+    df.groupby("GICS Sector", sort=False)
+    .size()
+    .reset_index(name="count")
+    .rename(columns={"GICS Sector": "sector"})
+    .sort_values("count", ascending=False)
+)
+sector_counts.to_csv("data/sector-counts.csv", index=False)

@@ -1,12 +1,20 @@
 {
   "name": "s-and-p-500-companies",
   "title": "S&P 500 Companies",
+  "description": "List of companies currently in the S&P 500 index (Standard and Poor's 500), a free-float, capitalisation-weighted index of the 500 largest publicly listed US stocks by market cap. Includes ticker symbol, company name, GICS sector and sub-industry, headquarters location, date added to the index, SEC CIK number, and founding year. Data is sourced from Wikipedia and updated daily.",
   "collection": "reference-data",
   "licenses": [
     {
       "name": "ODC-PDDL-1.0",
       "path": "http://opendatacommons.org/licenses/pddl/",
       "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia — List of S&P 500 companies",
+      "path": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+      "title": "List of S&P 500 companies"
     }
   ],
   "views": [
@@ -36,30 +44,72 @@
     {
       "name": "sector-counts",
       "path": "data/sector-counts.csv",
+      "description": "Aggregated count of S&P 500 constituent companies by GICS sector, derived from the constituents resource. The total may exceed 500 because a small number of companies have multiple share classes listed in the index.",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
         "fields": [
-          { "name": "sector", "type": "string" },
-          { "name": "count", "type": "integer", "description": "Number of S&P 500 constituent companies" }
+          {
+            "name": "sector",
+            "type": "string",
+            "description": "GICS (Global Industry Classification Standard) sector name"
+          },
+          {
+            "name": "count",
+            "type": "integer",
+            "description": "Number of S&P 500 constituent companies"
+          }
         ]
       }
     },
     {
       "name": "constituents",
       "path": "data/constituents.csv",
+      "description": "Full list of S&P 500 constituent companies as sourced from Wikipedia. Each row represents one listed security (ticker symbol). A small number of companies appear twice with different symbols due to multiple share classes.",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
         "fields": [
-          { "name": "Symbol", "type": "string" },
-          { "name": "Security", "type": "string" },
-          { "name": "GICS Sector", "type": "string" },
-          { "name": "GICS Sub-Industry", "type": "string" },
-          { "name": "Headquarters Location", "type": "string" },
-          { "name": "Date added", "type": "string" },
-          { "name": "CIK", "type": "string" },
-          { "name": "Founded", "type": "string" }
+          {
+            "name": "Symbol",
+            "type": "string",
+            "description": "Stock ticker symbol as listed on the exchange"
+          },
+          {
+            "name": "Security",
+            "type": "string",
+            "description": "Company name as listed in the index"
+          },
+          {
+            "name": "GICS Sector",
+            "type": "string",
+            "description": "GICS (Global Industry Classification Standard) sector to which the company belongs"
+          },
+          {
+            "name": "GICS Sub-Industry",
+            "type": "string",
+            "description": "GICS sub-industry classification, a finer-grained grouping within the sector"
+          },
+          {
+            "name": "Headquarters Location",
+            "type": "string",
+            "description": "City and state (or country) where the company's headquarters is located"
+          },
+          {
+            "name": "Date added",
+            "type": "date",
+            "description": "Date the company was added to the S&P 500 index, in YYYY-MM-DD format"
+          },
+          {
+            "name": "CIK",
+            "type": "string",
+            "description": "SEC Central Index Key — the unique identifier assigned by the US Securities and Exchange Commission"
+          },
+          {
+            "name": "Founded",
+            "type": "string",
+            "description": "Year the company was founded. Some entries include a parenthetical note, e.g. '2013 (1888)', indicating the year of the current legal entity followed by the predecessor organisation's founding year"
+          }
         ]
       }
     }
