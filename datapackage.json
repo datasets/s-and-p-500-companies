@@ -98,7 +98,6 @@
           {
             "name": "Date added",
             "type": "date",
-            "format": "%Y-%m-%d",
             "description": "Date the company was added to the S&P 500 index, in YYYY-MM-DD format"
           },
           {
