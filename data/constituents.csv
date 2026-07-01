@@ -120,7 +120,6 @@ COIN,Coinbase,Financials,Financial Exchanges & Data,"New York City, New York",20
 CL,Colgate-Palmolive,Consumer Staples,Household Products,"New York City, New York",1957-03-04,21665,1806
 CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",2002-11-19,1166691,1963
 FIX,Comfort Systems USA,Industrials,Construction & Engineering,"Houston, Texas",2025-12-22,1035983,1997
-CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1983-08-31,23217,1919
 COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,1163165,2002
 ED,Consolidated Edison,Utilities,Multi-Utilities,"New York City, New York",1957-03-04,1047862,1823
 STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Rochester, New York",2005-07-01,16918,1945
@@ -235,7 +234,8 @@ HSY,Hershey Company (The),Consumer Staples,Packaged Foods & Meats,"Hershey, Penn
 HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015-11-02,1645590,2015
 HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",2017-06-19,1585689,1919
 HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988-03-31,354950,1978
-HON,Honeywell,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1957-03-04,773840,1906
+HONA,Honeywell Aerospace,Industrials,Aerospace & Defense,"Phoenix, Arizona",2026-06-29,2089271,1914
+HON,Honeywell Technologies,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1957-03-04,773840,1906
 HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",2009-03-04,48465,1891
 HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",2007-03-20,1070750,1993
 HWM,Howmet Aerospace,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",2016-10-21,4281,1888
