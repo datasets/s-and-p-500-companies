@@ -66,6 +66,7 @@ BIIB,Biogen,Health Care,Biotechnology,"Cambridge, Massachusetts",2003-11-13,8750
 BLK,BlackRock,Financials,Asset Management & Custody Banks,"New York City, New York",2011-04-04,2012383,1988
 BX,Blackstone Inc.,Financials,Asset Management & Custody Banks,"New York City, New York",2023-09-18,1393818,1985
 XYZ,"Block, Inc.",Financials,Transaction & Payment Processing Services,none,2025-07-23,1512673,2009
+BE,Bloom Energy,Industrials,Electrical Components & Equipment,"San Jose, California",2026-09-21,1664703,2001
 BNY,BNY Mellon,Financials,Asset Management & Custody Banks,"New York City, New York",1995-03-31,1390777,2007 (1784)
 BA,Boeing,Industrials,Aerospace & Defense,"Arlington, Virginia",1957-03-04,12927,1916
 BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Norwalk, Connecticut",2009-11-06,1075531,1996
@@ -75,7 +76,6 @@ AVGO,Broadcom,Information Technology,Semiconductors,"Palo Alto, California",2014
 BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,1383312,1962
 BRO,Brown & Brown,Financials,Insurance Brokers,"Daytona Beach, Florida",2021-09-20,79282,1939
 BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,14693,1870
-BLDR,Builders FirstSource,Industrials,Building Products,"Irving, Texas",2023-12-18,1316835,1998
 BG,Bunge Global,Consumer Staples,Agricultural Products & Services,"Chesterfield, Missouri",2023-03-15,1996862,1818
 BXP,"BXP, Inc.",Real Estate,Office REITs,"Boston, Massachusetts",2006-04-03,1037540,1970
 CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1043277,1905
@@ -178,6 +178,7 @@ ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,"San Mateo, 
 EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,"New York City, New York",2006-01-05,1001250,1946
 EG,Everest Group,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,1095073,1973
 EVRG,Evergy,Utilities,Electric Utilities,"Kansas City, Missouri",2018-06-05,1711269,1909
+P,Everpure,Information Technology,"Technology Hardware, Storage & Peripherals","Santa Clara, California",2026-09-21,1474432,2009
 ES,Eversource Energy,Utilities,Electric Utilities,"Hartford, Connecticut",2009-07-24,72741,1966
 EXC,Exelon,Utilities,Electric Utilities,"Chicago, Illinois",1957-03-04,1109357,2000
 EXE,Expand Energy,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",2025-03-24,895126,1989
@@ -246,6 +247,7 @@ IBM,IBM,Information Technology,IT Consulting & Other Services,"Armonk, New York"
 IEX,IDEX Corporation,Industrials,Industrial Machinery & Supplies & Components,"Northbrook, Illinois",2019-08-09,832101,1988
 IDXX,Idexx Laboratories,Health Care,Health Care Equipment,"Westbrook, Maine",2017-01-05,874716,1983
 ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components,"Glenview, Illinois",1986-02-28,49826,1912
+ILMN,"Illumina, Inc.",Health Care,Life Sciences Tools & Services,"San Diego, California",2026-09-21,1110803,1998
 INCY,Incyte,Health Care,Biotechnology,"Wilmington, Delaware",2017-02-28,879169,1991
 IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components,"Davidson, North Carolina",2020-03-03,1699150,1859
 PODD,Insulet Corporation,Health Care,Health Care Equipment,"Acton, Massachusetts",2023-03-15,1145197,2000
@@ -316,7 +318,6 @@ MU,Micron Technology,Information Technology,Semiconductors,"Boise, Idaho",1994-0
 MSFT,Microsoft,Information Technology,Systems Software,"Redmond, Washington",1994-06-01,789019,1975
 MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs,"Memphis, Tennessee",2016-12-02,912595,1977
 MRNA,Moderna,Health Care,Biotechnology,"Cambridge, Massachusetts",2021-07-21,1682852,2010
-TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,"Chicago, Illinois",1976-06-30,24545,"2005 (Molson 1786, Coors 1873)"
 MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",2012-10-02,1103982,2012
 MPWR,Monolithic Power Systems,Information Technology,Semiconductors,"Kirkland, Washington",2021-02-12,1280452,1997
 MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Corona, California",2012-06-28,865752,2012 (1935)
@@ -443,7 +444,6 @@ TXT,Textron,Industrials,Aerospace & Defense,"Providence, Rhode Island",1978-12-3
 TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",2004-08-03,97745,2006 (1902)
 TJX,TJX Companies,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",1985-09-30,109198,1987
 TKO,TKO Group Holdings,Communication Services,Movies & Entertainment,"New York City, New York",2025-03-24,1973266,2023
-TTD,Trade Desk (The),Communication Services,Advertising,"Ventura, California",2025-07-18,1671933,2009
 TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,"Brentwood, Tennessee",2014-01-24,916365,1938
 TT,Trane Technologies,Industrials,Building Products,"Dublin, Ireland",2010-11-17,1466258,1871
 TDG,TransDigm Group,Industrials,Aerospace & Defense,"Cleveland, Ohio",2016-06-03,1260221,1993
